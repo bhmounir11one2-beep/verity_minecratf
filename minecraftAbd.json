@@ -15,8 +15,8 @@
       "When use OpenAd, the Interstitial Splash not working !"
     ],
 
-    "ShowAds"              : true,
-    "ForceOpenAd"          : true,
+    "ShowAds"              : false,
+    "ForceOpenAd"          : false,
     "BannerNetwork"        : "admob",
     "InterstitialNetwork"  : "admob",
     "InterstitialSPNetwork": "",
