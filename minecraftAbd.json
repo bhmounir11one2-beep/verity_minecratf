@@ -114,7 +114,7 @@ Prepare yourself for terrifying encounters, unsettling sounds, dynamic environme
         "title": "Your Friend Verity",
         "mapLink": "https://edge.mcpedl.com/files/8612/336/VerityV1.2.1.mcaddon?ft=bbfa37e2673c6cc065f61e12d0023756&bd=ss5fdlmroqk&_gl=1*1tdjiuz*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgxNjY4JGozOCRsMCRoMA..",
         "isLocked": true,
-        "coins": 20,
+        "coins": 50,
         "description": "Welcome to School Hogwarts, a Minecraft map that recreates the iconic wizarding school. Wander through grand halls, attend magical lessons, and uncover secrets in this enchanting and immersive adventure!",
         "preview": [
           "https://media.forgecdn.net/attachments/1834/700/verity-png.png",
@@ -125,45 +125,54 @@ Prepare yourself for terrifying encounters, unsettling sounds, dynamic environme
         ]
       },
       {
-        "title": "School Lance Ville",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-lance-ville/school-lance-ville.mcworld",
+        "title": "Arvex Verity AMIX",
+        "mapLink": "https://edge.mcpedl.com/files/8486/768/ArvexVerity.mcpack?ft=861ab790231c6fd02eac2f377444bafe&bd=ss5fdlmroqk&_gl=1*1brccsh*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgyNzkxJGo1OCRsMCRoMA..",
         "isLocked": false,
         "coins": 0,
-        "description": "Discover School Lance Ville, a Minecraft map featuring a unique school set in a charming town. Engage in exciting activities, explore the local community, and enjoy a blend of education and adventure!",
+        "description": "a Minecraft map featuring a unique school set in a charming town. Engage in exciting activities, explore the local community, and enjoy a blend of education and adventure!",
         "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-lance-ville/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-lance-ville/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-lance-ville/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-lance-ville/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-lance-ville/5.jpg"
+          "https://media.forgecdn.net/attachments/1812/268/1000143936-jpg.jpg",
+          "https://media.forgecdn.net/attachments/description/1575941/description_cbb16d30-505b-479e-b436-359203aee847.png"
+          
         ]
       },
       {
-        "title": "School Academia",
+        "title": "Verity Totem",
         "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-academia/school-academia.mcworld",
         "isLocked": false,
         "coins": 0,
-        "description": "Join the adventure in School Academia, a Minecraft map designed around a prestigious academic institution. Participate in challenging courses, explore the campus, and unlock the secrets of this scholarly world!",
+        "description": "A resource pack that replaces the Totem of Undying with a Verity Totem from "Something is Knocking at Your Door"
+
+",
         "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-academia/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-academia/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-academia/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-academia/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-academia/5.jpg"
+          "https://media.forgecdn.net/attachments/1772/128/mcpedl-png.png",
+          "https://media.forgecdn.net/attachments/1772/128/mcpedl-png.png",
+          "https://media.forgecdn.net/attachments/1772/130/ingame-png.png""
         ]
       },
       {
-        "title": "School Convent",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-convent/school-convent.mcworld",
+        "title": "Verity Horror",
+        "mapLink": "https://edge.mcpedl.com/files/8517/713/Morph%20Into%20Verity%20V1.1.2.mcaddon?ft=861ab790231c6fd02eac2f377444bafe&bd=ss5fdlmroqk&_gl=1*1i09iks*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgzMDE1JGo2MCRsMCRoMA..",
         "isLocked": false,
         "coins": 0,
-        "description": "Experience School Convent, a Minecraft map set in a serene and historic convent school. Engage in peaceful learning, explore sacred grounds, and uncover the rich history of this unique environment!",
+        "description": "In the Morph Into Verity, Falsity, Cruelity and Lovity addon, you can morph into the following characters:
+
+Verity
+Falsity
+Cruelity
+Lovity
+Verity Fusion (Verity fused with Minecraft mobs)
+There are 35 playable characters in total: 27 Verity characters and 8 Verity Fusion characters.
+
+Characters such as Falsity, Cruelity, and Lovity are not displayed by their actual names. Instead, they appear as Verity Phase 1 through Verity Phase 27.
+
+The images below showcase all of the characters you can morph into.",
         "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-convent/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-convent/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-convent/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-convent/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-convent/5.jpg"
+          "https://media.forgecdn.net/attachments/1821/501/mcpedl-png.png",
+          "https://media.forgecdn.net/attachments/description/1622268/description_7ed0e992-8b23-40c9-b6a3-34aed805dbe2.png",
+          "https://media.forgecdn.net/attachments/description/1622268/description_acfb9813-712a-4bb9-a223-48461a9b8670.png",
+          "https://media.forgecdn.net/attachments/description/1622268/description_76660c58-fea1-41b0-82fc-97a30585fff1.png",
+          "https://media.forgecdn.net/attachments/1821/501/mcpedl-png.png"
         ]
       },
       {
