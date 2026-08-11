@@ -96,30 +96,31 @@
         ]
       },
       {
-        "title": "School Realistic City",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-realistic-city/school-realistic-city.mcworld",
+        "title": "Verity Horrors - An Immersive Experience",
+        "mapLink": "https://edge.mcpedl.com/files/8593/642/ThatMob%27s%20Verity%203.2.0%20by%20PnTMC%20%5bAdd-on%5d%20-%20V26.40.mcaddon?ft=bbfa37e2673c6cc065f61e12d0023756&bd=ss5fdlmroqk&_gl=1*1gz0tye*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgxNjY4JGozOCRsMCRoMA..",
         "isLocked": false,
         "coins": 0,
-        "description": "Explore School Realistic City, a Minecraft map that blends urban life with a vibrant school environment. Navigate through bustling streets, attend classes, and engage in exciting city-based challenges in this dynamic map!",
+        "description": "Verity Horrors is an immersive Minecraft horror modpack designed to transform every exploration into a terrifying experience.
+From abandoned forests to pitch-black caves, you'll never know what's watching you...
+
+Prepare yourself for terrifying encounters, unsettling sounds, dynamic environments, and creatures inspired by modern internet horror.",
         "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-realistic-city/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-realistic-city/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-realistic-city/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-realistic-city/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-realistic-city/5.jpg"
+          "https://media.forgecdn.net/attachments/1742/123/verity-thumbnail-2-1-png.png",
+          "https://media.forgecdn.net/attachments/1743/633/screenshot-2026-06-19-132325-png.png",
+          "https://media.forgecdn.net/attachments/1738/596/screenshot-2026-06-16-152523-png.png"
         ]
       },
       {
-        "title": "School Hogwarts",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-hogwarts/school-hogwarts.mcworld",
-        "isLocked": false,
-        "coins": 0,
+        "title": "Your Friend Verity",
+        "mapLink": "https://edge.mcpedl.com/files/8612/336/VerityV1.2.1.mcaddon?ft=bbfa37e2673c6cc065f61e12d0023756&bd=ss5fdlmroqk&_gl=1*1tdjiuz*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgxNjY4JGozOCRsMCRoMA..",
+        "isLocked": true,
+        "coins": 20,
         "description": "Welcome to School Hogwarts, a Minecraft map that recreates the iconic wizarding school. Wander through grand halls, attend magical lessons, and uncover secrets in this enchanting and immersive adventure!",
         "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-hogwarts/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-hogwarts/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-hogwarts/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-hogwarts/4.jpg",
+          "https://media.forgecdn.net/attachments/1834/700/verity-png.png",
+          "https://media.forgecdn.net/attachments/description/null/description_19e3dede-3879-4309-b38c-bb7320eef173.webp",
+          "https://media.forgecdn.net/attachments/description/null/description_416e5eb1-d508-4bc6-adc4-1eeab0e22c5a.webp",
+          "https://media.forgecdn.net/attachments/description/null/description_53f41162-2667-4009-acbf-1667cfefd58b.webp",
           "https://keyboard-counter.online/data/schoolMaps//school-hogwarts/5.jpg"
         ]
       },
