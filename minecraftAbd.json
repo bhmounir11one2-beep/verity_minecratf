@@ -1,12 +1,10 @@
 {
   "AppRedirect": {
-    "status"     : false,
-    "version"    : "1.0.0",
+    "status": false,
+    "version": "1.0.0",
     "redirectURL": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
   },
-  
   "AdsController": {
-      
     "README": [
       "To run ads for each network, enter one of this :",
       " admob // facebook // applovin // ironsource // unity // promote",
@@ -14,53 +12,43 @@
       "⚠️Warning: OpenAd work only on admob at time.",
       "When use OpenAd, the Interstitial Splash not working !"
     ],
-
-    "ShowAds"              : true,
-    "ForceOpenAd"          : true,
-    "BannerNetwork"        : "admob",
-    "InterstitialNetwork"  : "admob",
+    "ShowAds": true,
+    "ForceOpenAd": true,
+    "BannerNetwork": "admob",
+    "InterstitialNetwork": "admob",
     "InterstitialSPNetwork": "admob",
-    "RewardNetwork"        : "admob",
-    "OpenAdNetwork"        : "admob",
-    
+    "RewardNetwork": "admob",
+    "OpenAdNetwork": "admob",
     "AdInterval": 2,
-
     "AdPlacement": {
-        
-      "AdMobBanner"        : "ca-app-pub-5977579612228950/8463879140",
-      "AdMobInterstitial"  : "ca-app-pub-5977579612228950/4557857915",
+      "AdMobBanner": "ca-app-pub-5977579612228950/8463879140",
+      "AdMobInterstitial": "ca-app-pub-5977579612228950/4557857915",
       "AdMobInterstitialSP": "ca-app-pub-5977579612228950/6484447015",
-      "AdMobReward"        : "ca-app-pub-5977579612228950/4989984636",
-      "AdMobOpenAd"        : "ca-app-pub-5977579612228950/9661176632",
-
+      "AdMobReward": "ca-app-pub-5977579612228950/4989984636",
+      "AdMobOpenAd": "ca-app-pub-5977579612228950/9661176632",
       "FacebookBanner": "621902803077355_621904523077183",
       "FacebookInterstitial": "621902803077355_621905109743791",
       "FacebookInterstitialSP": "621902803077355_621905109743791",
       "FacebookReward": "621902803077355_621906723076963",
-
       "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
       "ApplovinBanner": "da17eff31ae69f15",
       "ApplovinInterstitial": "98f6a586ed642919",
       "ApplovinInterstitialSP": "98f6a586ed642919",
       "ApplovinReward": "98f6a586ed642919",
-
       "IronSourceKey": "85460dcd",
       "IronBanner": "thnfvcsog13bhn08",
       "IronInterstitial": "aeyqi3vqlv6o8sh9",
       "IronInterstitialSP": "aeyqi3vqlv6o8sh9",
       "IronReward": "76yy3nay3ceui2a3",
-
       "UnityGameID": "4076527",
       "UnityBanner": "BannerAd",
       "UnityInterstitialAd": "InterstitialAd",
       "UnityInterstitialSP": "InterstitialAd",
       "UnityRewardAd": "rewardedVideo",
-
       "PrivacyURL": "https://sites.google.com/view/essota-policy",
       "OnesignalID": "xx-xxx-xxx-xxx-xxx",
       "BrowserURL": "https://github.com/saidmotya"
     },
-
     "AdPromote": [
       {
         "title": "App Promote",
@@ -78,7 +66,6 @@
       }
     ]
   },
-  
   "MinecraftData": {
     "Maps": [
       {
@@ -100,10 +87,7 @@
         "mapLink": "https://edge.mcpedl.com/files/8593/642/ThatMob%27s%20Verity%203.2.0%20by%20PnTMC%20%5bAdd-on%5d%20-%20V26.40.mcaddon?ft=bbfa37e2673c6cc065f61e12d0023756&bd=ss5fdlmroqk&_gl=1*1gz0tye*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgxNjY4JGozOCRsMCRoMA..",
         "isLocked": false,
         "coins": 0,
-        "description": "Verity Horrors is an immersive Minecraft horror modpack designed to transform every exploration into a terrifying experience.
-From abandoned forests to pitch-black caves, you'll never know what's watching you...
-
-Prepare yourself for terrifying encounters, unsettling sounds, dynamic environments, and creatures inspired by modern internet horror.",
+        "description": "Verity Horrors is an immersive Minecraft horror modpack designed to transform every exploration into a terrifying experience.\nFrom abandoned forests to pitch-black caves, you'll never know what's watching you...\n\nPrepare yourself for terrifying encounters, unsettling sounds, dynamic environments, and creatures inspired by modern internet horror.",
         "preview": [
           "https://media.forgecdn.net/attachments/1742/123/verity-thumbnail-2-1-png.png",
           "https://media.forgecdn.net/attachments/1743/633/screenshot-2026-06-19-132325-png.png",
@@ -133,7 +117,6 @@ Prepare yourself for terrifying encounters, unsettling sounds, dynamic environme
         "preview": [
           "https://media.forgecdn.net/attachments/1812/268/1000143936-jpg.jpg",
           "https://media.forgecdn.net/attachments/description/1575941/description_cbb16d30-505b-479e-b436-359203aee847.png"
-          
         ]
       },
       {
@@ -145,7 +128,8 @@ Prepare yourself for terrifying encounters, unsettling sounds, dynamic environme
         "preview": [
           "https://media.forgecdn.net/attachments/1772/128/mcpedl-png.png",
           "https://media.forgecdn.net/attachments/1772/128/mcpedl-png.png",
-          "https://media.forgecdn.net/attachments/1772/130/ingame-png.png""
+          "https://media.forgecdn.net/attachments/1772/130/ingame-png.png",
+          ""
         ]
       },
       {
@@ -153,18 +137,7 @@ Prepare yourself for terrifying encounters, unsettling sounds, dynamic environme
         "mapLink": "https://edge.mcpedl.com/files/8517/713/Morph%20Into%20Verity%20V1.1.2.mcaddon?ft=861ab790231c6fd02eac2f377444bafe&bd=ss5fdlmroqk&_gl=1*1i09iks*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgzMDE1JGo2MCRsMCRoMA..",
         "isLocked": false,
         "coins": 0,
-        "description": "In the Morph Into Verity, Falsity, Cruelity and Lovity addon, you can morph into the following characters:
-
-Verity
-Falsity
-Cruelity
-Lovity
-Verity Fusion (Verity fused with Minecraft mobs)
-There are 35 playable characters in total: 27 Verity characters and 8 Verity Fusion characters.
-
-Characters such as Falsity, Cruelity, and Lovity are not displayed by their actual names. Instead, they appear as Verity Phase 1 through Verity Phase 27.
-
-The images below showcase all of the characters you can morph into.",
+        "description": "In the Morph Into Verity, Falsity, Cruelity and Lovity addon, you can morph into the following characters:\n\nVerity\nFalsity\nCruelity\nLovity\nVerity Fusion (Verity fused with Minecraft mobs)\nThere are 35 playable characters in total: 27 Verity characters and 8 Verity Fusion characters.\n\nCharacters such as Falsity, Cruelity, and Lovity are not displayed by their actual names. Instead, they appear as Verity Phase 1 through Verity Phase 27.\n\nThe images below showcase all of the characters you can morph into.",
         "preview": [
           "https://media.forgecdn.net/attachments/1821/501/mcpedl-png.png",
           "https://media.forgecdn.net/attachments/description/1622268/description_7ed0e992-8b23-40c9-b6a3-34aed805dbe2.png",
@@ -1245,7 +1218,6 @@ The images below showcase all of the characters you can morph into.",
       }
     ]
   },
-  
   "AppsPromote": {
     "status": true,
     "apps": [
