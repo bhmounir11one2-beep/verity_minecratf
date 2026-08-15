@@ -12,7 +12,7 @@
       "⚠️Warning: OpenAd work only on admob at time.",
       "When use OpenAd, the Interstitial Splash not working !"
     ],
-    "ShowAds": true,
+    "ShowAds": false,
     "ForceOpenAd": true,
     "BannerNetwork": "admob",
     "InterstitialNetwork": "admob",
@@ -83,40 +83,33 @@
         ]
       },
       {
-        "title": "Verity Horrors - An Immersive Experience",
+        "title": "falsity Horrors ",
         "mapLink": "https://edge.mcpedl.com/files/8593/642/ThatMob%27s%20Verity%203.2.0%20by%20PnTMC%20%5bAdd-on%5d%20-%20V26.40.mcaddon?ft=bbfa37e2673c6cc065f61e12d0023756&bd=ss5fdlmroqk&_gl=1*1gz0tye*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgxNjY4JGozOCRsMCRoMA..",
         "isLocked": false,
         "coins": 0,
         "description": "Verity Horrors is an immersive Minecraft horror modpack designed to transform every exploration into a terrifying experience.\nFrom abandoned forests to pitch-black caves, you'll never know what's watching you...\n\nPrepare yourself for terrifying encounters, unsettling sounds, dynamic environments, and creatures inspired by modern internet horror.",
         "preview": [
-          "https://media.forgecdn.net/attachments/1742/123/verity-thumbnail-2-1-png.png",
-          "https://media.forgecdn.net/attachments/1743/633/screenshot-2026-06-19-132325-png.png",
-          "https://media.forgecdn.net/attachments/1738/596/screenshot-2026-06-16-152523-png.png"
+          "https://media.forgecdn.net/attachments/1840/879/verity-falsity-cruelity-lovity-8-png.png"
         ]
       },
       {
-        "title": "Your Friend Verity",
+        "title": "Your Friend falsity",
         "mapLink": "https://edge.mcpedl.com/files/8612/336/VerityV1.2.1.mcaddon?ft=bbfa37e2673c6cc065f61e12d0023756&bd=ss5fdlmroqk&_gl=1*1tdjiuz*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgxNjY4JGozOCRsMCRoMA..",
         "isLocked": true,
         "coins": 50,
         "description": "Welcome to School Hogwarts, a Minecraft map that recreates the iconic wizarding school. Wander through grand halls, attend magical lessons, and uncover secrets in this enchanting and immersive adventure!",
         "preview": [
-          "https://media.forgecdn.net/attachments/1834/700/verity-png.png",
-          "https://media.forgecdn.net/attachments/description/null/description_19e3dede-3879-4309-b38c-bb7320eef173.webp",
-          "https://media.forgecdn.net/attachments/description/null/description_416e5eb1-d508-4bc6-adc4-1eeab0e22c5a.webp",
-          "https://media.forgecdn.net/attachments/description/null/description_53f41162-2667-4009-acbf-1667cfefd58b.webp",
-          "https://keyboard-counter.online/data/schoolMaps//school-hogwarts/5.jpg"
+          "https://media.forgecdn.net/attachments/1777/931/falsitycraft-png.png"
         ]
       },
       {
-        "title": "Arvex Verity AMIX",
+        "title": "Arvex falsity AMIX",
         "mapLink": "https://edge.mcpedl.com/files/8486/768/ArvexVerity.mcpack?ft=861ab790231c6fd02eac2f377444bafe&bd=ss5fdlmroqk&_gl=1*1brccsh*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgyNzkxJGo1OCRsMCRoMA..",
         "isLocked": false,
         "coins": 0,
         "description": "a Minecraft map featuring a unique school set in a charming town. Engage in exciting activities, explore the local community, and enjoy a blend of education and adventure!",
         "preview": [
-          "https://media.forgecdn.net/attachments/1812/268/1000143936-jpg.jpg",
-          "https://media.forgecdn.net/attachments/description/1575941/description_cbb16d30-505b-479e-b436-359203aee847.png"
+          "https://media.forgecdn.net/attachments/1763/192/falsity-2-png.png"
         ]
       },
       {
