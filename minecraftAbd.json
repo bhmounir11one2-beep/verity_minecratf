@@ -261,44 +261,43 @@
     ],
     "Addons": [
       {
-        "title": "The Modern Furniture",
-        "addonLink": "https://keyboard-counter.online/data/addons/ModernFurniture/modern-furniture.zip",
+        "title": "Verity World - AI Horror Adventure with Verity",
+        "addonLink": "https://www.curseforge.com/api/v1/mods/1598871/files/8779306/download",
         "isLocked": false,
         "coins": 0,
-        "description": "The addon brings more than 750 furniture with color variants and much more! Prepared both for a survival world and for a creative game.",
+        "description": "New horror survival modpack that turns Minecraft into a nightmare of false comfort. A smiling companion follows your every step, promising safety, but the deeper you go, the more you realize its smile hides something else entirely. This isn't a story about monsters in the dark. It's a story about the thing that was never on your side.",
         "preview": [
-          "https://keyboard-counter.online/data/addons/ModernFurniture/1.png",
-          "https://keyboard-counter.online/data/addons/ModernFurniture/2.jpg",
-          "https://keyboard-counter.online/data/addons/ModernFurniture/3.jpg",
-          "https://keyboard-counter.online/data/addons/ModernFurniture/4.png",
-          "https://keyboard-counter.online/data/addons/ModernFurniture/5.jpg"
+          "https://media.forgecdn.net/attachments/1779/105/2026-07-07_22-35-02-1-png.png",
+          "https://media.forgecdn.net/attachments/1774/317/2026-07-05_12-30-27-png.png",
+          "https://media.forgecdn.net/attachments/1779/100/2026-07-07_22-34-22-2-png.png",
+          "https://media.forgecdn.net/attachments/1774/326/2026-07-05_12-35-49-png.png"
         ]
       },
       {
-        "title": "Bus Mod",
-        "addonLink": "https://keyboard-counter.online/data/datav2/addons/BusMod/BusMod.mcaddon",
+        "title": "VerityCraft - A Realistic Horror Experience with Verity",
+        "addonLink": "https://www.curseforge.com/minecraft/modpacks/veritycraft/download/8770707",
         "isLocked": false,
         "coins": 0,
-        "description": "Travel in groups with this reliable and spacious bus addon.",
+        "description": "VerityCraft requires Verity to be configured correctly before you start playing. If you skip this step, some events, sounds, and mechanics may not work as intended.",
         "preview": [
-          "https://keyboard-counter.online/data/datav2/addons/BusMod/1.jpg",
-          "https://keyboard-counter.online/data/datav2/addons/BusMod/2.jpg",
-          "https://keyboard-counter.online/data/datav2/addons/BusMod/3.jpg",
-          "https://keyboard-counter.online/data/datav2/addons/BusMod/4.jpg",
-          "https://keyboard-counter.online/data/datav2/addons/BusMod/5.jpg"
+          "https://media.forgecdn.net/attachments/1776/964/2024-10-26_12-1-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1776/990/veritycraft-2-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1779/25/veritycraft-7-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1777/34/veritycraft-3-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1777/36/veritycraft-5-jpg.jpg"
         ]
       },
       {
-        "title": "MineCars Addon",
-        "addonLink": "https://keyboard-counter.online/data/carsv2/CarAddons/MineCars-Addon_latest/MineCars-Addon_latest.mcaddon",
+        "title": "Verity - Bedrock Edition",
+        "addonLink": "https://www.curseforge.com/minecraft-bedrock/addons/verity-bedrock-edition/download/8690130",
         "isLocked": false,
         "coins": 0,
-        "description": "Add a variety of fun and functional cars to your Minecraft world with the MineCars Addon.",
+        "description": "A little helper friend but don't ask him about the village in the east and don't leave him...",
         "preview": [
-          "https://keyboard-counter.online/data/carsv2/CarAddons/MineCars-Addon_latest/1.jpg",
-          "https://keyboard-counter.online/data/carsv2/CarAddons/MineCars-Addon_latest/2.jpg",
-          "https://keyboard-counter.online/data/carsv2/CarAddons/MineCars-Addon_latest/3.jpg",
-          "https://keyboard-counter.online/data/carsv2/CarAddons/MineCars-Addon_latest/4.jpg"
+          "https://media.forgecdn.net/attachments/1874/616/screenshot-2026-08-17-223616-png.png",
+          "https://media.forgecdn.net/attachments/1874/617/screenshot-2026-08-17-223637-png.png",
+          "https://media.forgecdn.net/attachments/1874/618/screenshot-2026-08-17-223711-png.png",
+          "https://media.forgecdn.net/attachments/1874/622/screenshot-2026-08-17-224104-png.png"
         ]
       },
       {
