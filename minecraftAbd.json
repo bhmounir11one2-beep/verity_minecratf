@@ -276,8 +276,8 @@
       {
         "title": "VerityCraft - A Realistic Horror Experience with Verity",
         "addonLink": "https://www.curseforge.com/minecraft/modpacks/veritycraft/download/8770707",
-        "isLocked": false,
-        "coins": 0,
+        "isLocked": true,
+        "coins": 500,
         "description": "VerityCraft requires Verity to be configured correctly before you start playing. If you skip this step, some events, sounds, and mechanics may not work as intended.",
         "preview": [
           "https://media.forgecdn.net/attachments/1776/964/2024-10-26_12-1-jpg.jpg",
