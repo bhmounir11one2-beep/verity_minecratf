@@ -12,7 +12,7 @@
       "⚠️Warning: OpenAd work only on admob at time.",
       "When use OpenAd, the Interstitial Splash not working !"
     ],
-    "ShowAds": true,
+    "ShowAds": false,
     "ForceOpenAd": true,
     "BannerNetwork": "admob",
     "InterstitialNetwork": "admob",
