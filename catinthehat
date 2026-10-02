@@ -12,7 +12,7 @@
       "⚠️Warning: OpenAd work only on admob at time.",
       "When use OpenAd, the Interstitial Splash not working !"
     ],
-    "ShowAds": false,
+    "ShowAds": true,
     "ForceOpenAd": true,
     "BannerNetwork": "admob",
     "InterstitialNetwork": "admob",
@@ -22,10 +22,10 @@
     "AdInterval": 2,
     "AdPlacement": {
       "AdMobBanner": "ca-app-pub-5977579612228950/4534647507",
-      "AdMobInterstitial": "ca-app-pub-9279841608977379/9892791097",
-      "AdMobInterstitialSP": "ca-app-pub-9279841608977379/8739491521",
-      "AdMobReward": "ca-app-pub-9279841608977379/4442872498",
-      "AdMobOpenAd": "ca-app-pub-9279841608977379/8827121430",
+      "AdMobInterstitial": "ca-app-pub-5977579612228950/2124484859",
+      "AdMobInterstitialSP": "ca-app-pub-5977579612228950/2639490175",
+      "AdMobReward": "ca-app-pub-5977579612228950/1011462162",
+      "AdMobOpenAd": "ca-app-pub-5977579612228950/1801304810",
       "FacebookBanner": "621902803077355_621904523077183",
       "FacebookInterstitial": "621902803077355_621905109743791",
       "FacebookInterstitialSP": "621902803077355_621905109743791",
@@ -69,33 +69,33 @@
   "MinecraftData": {
     "Maps": [
       {
-        "title": "falsity Mod horror Z",
-        "mapLink": "https://drive.google.com/file/d/1psAgkZTPWjjg82vBvE9JxHHgYVipogOH/view",
+        "title": "CAT IN THE HAT 1",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/1626730/files/8613067/download",
         "isLocked": false,
         "coins": 0,
-        "description": "how did i get here i dont remember anything the hum buzz is driving me insane my head hurts i want out i must wake up.",
+        "description": "Replaces the Cave Dweller Reimagined with the Cat in the Hat. Now when you go into a cave it will be the Cat in the Hat chasing you.",
         "preview": [
-          "https://img.youtube.com/vi/WtwhExswKlY/maxresdefault.jpg"
+          "https://media.forgecdn.net/attachments/1845/137/screenshot-2026-08-05-093101-png.png"
         ]
       },
       {
-        "title": "falsity Horrors ",
-        "mapLink": "https://edge.mcpedl.com/files/8593/642/ThatMob%27s%20Verity%203.2.0%20by%20PnTMC%20%5bAdd-on%5d%20-%20V26.40.mcaddon?ft=bbfa37e2673c6cc065f61e12d0023756&bd=ss5fdlmroqk&_gl=1*1gz0tye*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgxNjY4JGozOCRsMCRoMA..",
+        "title": "CAT IN THE HAT 2 MOD",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/1640462/files/8582305/download",
         "isLocked": false,
         "coins": 0,
-        "description": "Verity Horrors is an immersive Minecraft horror modpack designed to transform every exploration into a terrifying experience.\nFrom abandoned forests to pitch-black caves, you'll never know what's watching you...\n\nPrepare yourself for terrifying encounters, unsettling sounds, dynamic environments, and creatures inspired by modern internet horror.",
+        "description": "Requires the Man from the Fog mod. This Pack replaces the man from the Fog with the cat from the hat. Theres no doubt about about that. I might update this in the future because the jumpscares are pngs and I didnt feel like changing them.",
         "preview": [
-          "https://media.forgecdn.net/attachments/1840/879/verity-falsity-cruelity-lovity-8-png.png"
+          "https://media.forgecdn.net/attachments/1845/149/screenshot-2026-08-05-094255-png.png"
         ]
       },
       {
-        "title": "Your Friend falsity",
-        "mapLink": "https://edge.mcpedl.com/files/8612/336/VerityV1.2.1.mcaddon?ft=bbfa37e2673c6cc065f61e12d0023756&bd=ss5fdlmroqk&_gl=1*1tdjiuz*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgxNjY4JGozOCRsMCRoMA..",
+        "title": "CAT IN THE HAT 3 MOD",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/1687376/files/8915349/download",
         "isLocked": true,
         "coins": 50,
-        "description": "Welcome to School Hogwarts, a Minecraft map that recreates the iconic wizarding school. Wander through grand halls, attend magical lessons, and uncover secrets in this enchanting and immersive adventure!",
+        "description": "Install the mod and enter Survival or Adventure mode on a difficulty above Peaceful. Events begin automatically—no commands or guidebook required.",
         "preview": [
-          "https://media.forgecdn.net/attachments/1777/931/falsitycraft-png.png"
+          "https://img.youtube.com/vi/EM795IyIY6Q/maxresdefault.jpg"
         ]
       },
       {
