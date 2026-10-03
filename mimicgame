@@ -1,0 +1,41 @@
+{
+  "AppRedirect": {
+    "status": false,
+    "title": "New Version Available",
+    "message": "This version of the game is no longer available. Please install the new version to continue.",
+    "buttonText": "INSTALL NEW UPDATE",
+    "redirectURL": "https://play.google.com/store/apps/details?id=YOUR_NEW_PACKAGE"
+  },
+
+  "AdsController": {
+    "README": [
+      "Available NetworkAd values: appodeal // admob",
+      "ShowAds=false disables all ads including App Open.",
+      "NetworkAd selects the main advertising network.",
+      "NetworkAd=appodeal uses Appodeal for Banner, MREC, Native, Interstitial and Rewarded.",
+      "NetworkAd=admob uses AdMob for Banner, Native, Interstitial and Rewarded.",
+      "MREC is Appodeal-only and automatically works when NetworkAd=appodeal.",
+      "App Open is always AdMob and is controlled by ForceOpenAd.",
+      "All ads must use real SDK integrations. No fake or simulated ads."
+    ],
+
+    "ShowAds": true,
+    "ForceOpenAd": true,
+    "NetworkAd": "appodeal",
+    "AdInterval": 2,
+
+    "AdPlacement": {
+      "AppodealAppKey": "YOUR_REAL_APPODEAL_APP_KEY",
+
+      "AdMobAppID": "YOUR_REAL_ADMOB_APP_ID",
+      "AdMobBanner": "YOUR_REAL_ADMOB_BANNER_ID",
+      "AdMobNative": "YOUR_REAL_ADMOB_NATIVE_ID",
+      "AdMobInterstitial": "YOUR_REAL_ADMOB_INTERSTITIAL_ID",
+      "AdMobInterstitialSP": "YOUR_REAL_ADMOB_SPLASH_INTERSTITIAL_ID",
+      "AdMobReward": "YOUR_REAL_ADMOB_REWARDED_ID",
+      "AdMobOpenAd": "YOUR_REAL_ADMOB_OPEN_AD_ID",
+
+      "PrivacyURL": "YOUR_PRIVACY_POLICY_URL"
+    }
+  }
+}
