@@ -25,7 +25,7 @@
     "AdInterval": 2,
 
     "AdPlacement": {
-      "AppodealAppKey": "YOUR_REAL_APPODEAL_APP_KEY",
+      "AppodealAppKey": "22fb8b69d4a2947ab6820406bc733a44d9f0da845f856ed3",
 
       "AdMobAppID": "YOUR_REAL_ADMOB_APP_ID",
       "AdMobBanner": "YOUR_REAL_ADMOB_BANNER_ID",
@@ -33,7 +33,7 @@
       "AdMobInterstitial": "YOUR_REAL_ADMOB_INTERSTITIAL_ID",
       "AdMobInterstitialSP": "YOUR_REAL_ADMOB_SPLASH_INTERSTITIAL_ID",
       "AdMobReward": "YOUR_REAL_ADMOB_REWARDED_ID",
-      "AdMobOpenAd": "YOUR_REAL_ADMOB_OPEN_AD_ID",
+      "AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921",
 
       "PrivacyURL": "YOUR_PRIVACY_POLICY_URL"
     }
