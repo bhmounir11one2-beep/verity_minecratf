@@ -28,11 +28,11 @@
       "AppodealAppKey": "22fb8b69d4a2947ab6820406bc733a44d9f0da845f856ed3",
 
       "AdMobAppID": "YOUR_REAL_ADMOB_APP_ID",
-      "AdMobBanner": "YOUR_REAL_ADMOB_BANNER_ID",
-      "AdMobNative": "YOUR_REAL_ADMOB_NATIVE_ID",
-      "AdMobInterstitial": "YOUR_REAL_ADMOB_INTERSTITIAL_ID",
-      "AdMobInterstitialSP": "YOUR_REAL_ADMOB_SPLASH_INTERSTITIAL_ID",
-      "AdMobReward": "YOUR_REAL_ADMOB_REWARDED_ID",
+      "AdMobBanner": "ca-app-pub-3940256099942544/9214589741",
+      "AdMobNative": "ca-app-pub-3940256099942544/1044960115",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialSP": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
       "AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921",
 
       "PrivacyURL": "YOUR_PRIVACY_POLICY_URL"
