@@ -21,7 +21,7 @@
 
     "ShowAds": true,
     "ForceOpenAd": true,
-    "NetworkAd": "admob",
+    "NetworkAd": "appodeal",
     "AdInterval": 2,
 
     "AdPlacement": {
