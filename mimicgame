@@ -6,6 +6,11 @@
     "buttonText": "INSTALL NEW UPDATE",
     "redirectURL": "https://play.google.com/store/apps/details?id=YOUR_NEW_PACKAGE"
   },
+"RewardedControl": {
+  "AdMobDailyLimit": 2,
+  "AdMobBurstLimit": 3,
+  "AdMobBurstWindowSeconds": 60
+},
 
   "AdsController": {
     "README": [
