@@ -24,7 +24,7 @@
       "All ads must use real SDK integrations. No fake or simulated ads."
     ],
 
-    "ShowAds": false,
+    "ShowAds": true,
     "ForceOpenAd": true,
     "NetworkAd": "appodeal",
     "AdInterval": 2,
