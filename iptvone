@@ -102,7 +102,7 @@
       "Offers": [
         {
           "id": "offer_01",
-          "enabled": false,
+          "enabled": true,
           "title": "Example Premium Offer",
           "subtitle": "1 Month Subscription",
           "price": "€9.99",
