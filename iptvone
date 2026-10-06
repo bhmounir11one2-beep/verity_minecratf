@@ -14,7 +14,7 @@
   },
 
   "DemoCatalog": {
-    "enabled": true,
+    "enabled": false,
 
     "Movies": [
       {
