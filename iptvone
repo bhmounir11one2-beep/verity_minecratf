@@ -2,9 +2,9 @@
   "AppRedirect": {
     "status": false,
     "title": "New Version Available",
-    "message": "This version of Harbor is no longer available. Please install the latest version to continue.",
-    "buttonText": "INSTALL NEW UPDATE",
-    "redirectURL": "https://play.google.com/store/apps/details?id=app.harbor.player"
+    "message": "A new version of the app is available. Please update to continue.",
+    "buttonText": "UPDATE APP",
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.cartv.smartplayer"
   },
 
   "RewardedControl": {
@@ -13,63 +13,103 @@
     "AdMobBurstWindowSeconds": 60
   },
 
+  "DemoCatalog": {
+    "enabled": false,
+
+    "Movies": [
+      {
+        "id": "movie_01",
+        "enabled": true,
+        "title": "Example Movie",
+        "description": "Example movie description",
+        "year": "2026",
+        "duration": "01:30:00",
+        "previewURL": "https://example.com/movie-poster.jpg",
+        "videoURL": "https://example.com/movie-video.mp4",
+        "license": "authorized",
+        "sourceURL": "https://example.com/movie-source"
+      }
+    ],
+
+    "Series": [
+      {
+        "id": "series_01",
+        "enabled": true,
+        "title": "Example Series",
+        "description": "Example series description",
+        "previewURL": "https://example.com/series-poster.jpg",
+        "license": "authorized",
+        "sourceURL": "https://example.com/series-source",
+        "episodes": [
+          {
+            "id": "episode_01",
+            "title": "Episode 1",
+            "videoURL": "https://example.com/series-episode-01.mp4"
+          }
+        ]
+      }
+    ]
+  },
+
   "AdsController": {
     "ShowAds": true,
-    "ShowAdsPerso": true,
+    "ShowAdsPerso": false,
     "ForceOpenAd": true,
 
-    "NetworkAd": "admob",
+    "NetworkAd": "appodeal",
 
     "AdInterval": 2,
+
+    "PageAds": {
+      "Language": true,
+      "Onboarding": true,
+      "Search": true,
+      "Home": true,
+      "LiveTV": true,
+      "Movies": true,
+      "Series": true,
+      "Settings": true
+    },
+
+    "AppOpenControl": {
+      "Enabled": true,
+      "MinBackgroundSeconds": 30
+    },
+
+    "InterstitialControl": {
+      "Enabled": true,
+      "AdInterval": 2,
+      "MinSecondsBetweenAds": 45,
+      "OnPlayerExit": true,
+      "OnSeriesDetailsExit": true,
+      "OnBrowsingNaturalBreak": true
+    },
+
+    "NativeControl": {
+      "Home": true,
+      "Movies": true,
+      "Series": true
+    },
+
+    "MrecControl": {
+      "Enabled": true,
+      "Settings": true
+    },
 
     "PersonalAds": {
       "AutoPlay": true,
       "DurationSeconds": 5,
-
       "Offers": [
         {
-          "id": "iptv_1_month",
-          "enabled": true,
-          "title": "1 Month IPTV",
-          "subtitle": "Premium IPTV Subscription",
+          "id": "offer_01",
+          "enabled": false,
+          "title": "Example Premium Offer",
+          "subtitle": "1 Month Subscription",
           "price": "€9.99",
-          "badge": "",
+          "badge": "SPECIAL OFFER",
           "buttonText": "GET OFFER",
-          "imageURL": "https://example.com/harbor/iptv-1-month.jpg",
-          "redirectURL": "https://example.com/harbor/order/1-month"
-        },
-        {
-          "id": "iptv_3_months",
-          "enabled": true,
-          "title": "3 Months IPTV",
-          "subtitle": "Premium IPTV Subscription",
-          "price": "€19.99",
-          "badge": "POPULAR",
-          "buttonText": "GET OFFER",
-          "imageURL": "https://example.com/harbor/iptv-3-months.jpg",
-          "redirectURL": "https://example.com/harbor/order/3-months"
-        },
-        {
-          "id": "iptv_6_months",
-          "enabled": true,
-          "title": "6 Months IPTV",
-          "subtitle": "Premium IPTV Subscription",
-          "price": "€29.99",
-          "badge": "",
-          "buttonText": "GET OFFER",
-          "imageURL": "https://example.com/harbor/iptv-6-months.jpg",
-          "redirectURL": "https://example.com/harbor/order/6-months"
-        },
-        {
-          "id": "iptv_12_months",
-          "enabled": true,
-          "title": "12 Months IPTV",
-          "subtitle": "Premium IPTV Subscription",
-          "price": "€49.99",
-          "badge": "BEST VALUE",
-          "buttonText": "GET OFFER",
-          "imageURL": "https://example.com/harbor/iptv-12-months.jpg",
-          "redirectURL": "https://example.com/harbor/order/12-months"
+          "imageURL": "https://example.com/offer-image.jpg",
+          "redirectURL": "https://example.com/offer"
         }
       ]
     },
@@ -77,13 +117,13 @@
     "AdPlacement": {
       "AppodealAppKey": "59243e40a0b922d9aefcc8836fe8ba0460ed1bb08b40ef25",
 
-"AdMobAppID": "ca-app-pub-9279841608977379~1270622087",
-"AdMobBanner": "ca-app-pub-3940256099942544/9214589741",
-"AdMobNative": "ca-app-pub-3940256099942544/2247696110",
-"AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-"AdMobInterstitialSP": "UNUSED",
-"AdMobReward": "ca-app-pub-3940256099942544/5224354917",
-"AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921"
+      "AdMobAppID": "ca-app-pub-9279841608977379~1270622087",
+      "AdMobBanner": "ca-app-pub-9279841608977379/7242888086",
+      "AdMobNative": "ca-app-pub-9279841608977379/4616724745",
+      "AdMobInterstitial": "ca-app-pub-9279841608977379/3329809210",
+      "AdMobInterstitialSP": "UNUSED",
+      "AdMobReward": "ca-app-pub-9279841608977379/3985424497",
+      "AdMobOpenAd": "ca-app-pub-9279841608977379/8395442794",
 
       "IronAppKey": "REPLACE_WITH_LEVELPLAY_APP_KEY",
       "IronBannerAdUnit": "REPLACE_WITH_LEVELPLAY_BANNER_UNIT",
@@ -96,7 +136,7 @@
       "UnityInterstitialPlacement": "REPLACE_WITH_UNITY_INTERSTITIAL_PLACEMENT",
       "UnityRewardedPlacement": "REPLACE_WITH_UNITY_REWARDED_PLACEMENT",
 
-      "PrivacyURL": "https://example.com/harbor/privacy"
+      "PrivacyURL": "REPLACE_WITH_REAL_PRIVACY_POLICY_URL"
     }
   }
 }
