@@ -75,15 +75,15 @@
     },
 
     "AdPlacement": {
-      "AppodealAppKey": "REPLACE_WITH_APPODEAL_APP_KEY",
+      "AppodealAppKey": "59243e40a0b922d9aefcc8836fe8ba0460ed1bb08b40ef25",
 
-      "AdMobAppID": "ca-app-pub-3940256099942544~3347511713",
-      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
-      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
-      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-      "AdMobInterstitialSP": "UNUSED",
-      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
-      "AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921",
+"AdMobAppID": "ca-app-pub-9279841608977379~1270622087",
+"AdMobBanner": "ca-app-pub-3940256099942544/9214589741",
+"AdMobNative": "ca-app-pub-3940256099942544/2247696110",
+"AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+"AdMobInterstitialSP": "UNUSED",
+"AdMobReward": "ca-app-pub-3940256099942544/5224354917",
+"AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921"
 
       "IronAppKey": "REPLACE_WITH_LEVELPLAY_APP_KEY",
       "IronBannerAdUnit": "REPLACE_WITH_LEVELPLAY_BANNER_UNIT",
