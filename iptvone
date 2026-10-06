@@ -19,7 +19,7 @@
     "Movies": [
       {
         "id": "movie_01",
-        "enabled": true,
+        "enabled": false,
         "title": "Example Movie",
         "description": "Example movie description",
         "year": "2026",
