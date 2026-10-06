@@ -1,0 +1,102 @@
+{
+  "AppRedirect": {
+    "status": false,
+    "title": "New Version Available",
+    "message": "This version of Harbor is no longer available. Please install the latest version to continue.",
+    "buttonText": "INSTALL NEW UPDATE",
+    "redirectURL": "https://play.google.com/store/apps/details?id=app.harbor.player"
+  },
+
+  "RewardedControl": {
+    "AdMobDailyLimit": 10,
+    "AdMobBurstLimit": 3,
+    "AdMobBurstWindowSeconds": 60
+  },
+
+  "AdsController": {
+    "ShowAds": true,
+    "ShowAdsPerso": true,
+    "ForceOpenAd": true,
+
+    "NetworkAd": "admob",
+
+    "AdInterval": 2,
+
+    "PersonalAds": {
+      "AutoPlay": true,
+      "DurationSeconds": 5,
+
+      "Offers": [
+        {
+          "id": "iptv_1_month",
+          "enabled": true,
+          "title": "1 Month IPTV",
+          "subtitle": "Premium IPTV Subscription",
+          "price": "€9.99",
+          "badge": "",
+          "buttonText": "GET OFFER",
+          "imageURL": "https://example.com/harbor/iptv-1-month.jpg",
+          "redirectURL": "https://example.com/harbor/order/1-month"
+        },
+        {
+          "id": "iptv_3_months",
+          "enabled": true,
+          "title": "3 Months IPTV",
+          "subtitle": "Premium IPTV Subscription",
+          "price": "€19.99",
+          "badge": "POPULAR",
+          "buttonText": "GET OFFER",
+          "imageURL": "https://example.com/harbor/iptv-3-months.jpg",
+          "redirectURL": "https://example.com/harbor/order/3-months"
+        },
+        {
+          "id": "iptv_6_months",
+          "enabled": true,
+          "title": "6 Months IPTV",
+          "subtitle": "Premium IPTV Subscription",
+          "price": "€29.99",
+          "badge": "",
+          "buttonText": "GET OFFER",
+          "imageURL": "https://example.com/harbor/iptv-6-months.jpg",
+          "redirectURL": "https://example.com/harbor/order/6-months"
+        },
+        {
+          "id": "iptv_12_months",
+          "enabled": true,
+          "title": "12 Months IPTV",
+          "subtitle": "Premium IPTV Subscription",
+          "price": "€49.99",
+          "badge": "BEST VALUE",
+          "buttonText": "GET OFFER",
+          "imageURL": "https://example.com/harbor/iptv-12-months.jpg",
+          "redirectURL": "https://example.com/harbor/order/12-months"
+        }
+      ]
+    },
+
+    "AdPlacement": {
+      "AppodealAppKey": "REPLACE_WITH_APPODEAL_APP_KEY",
+
+      "AdMobAppID": "ca-app-pub-3940256099942544~3347511713",
+      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialSP": "UNUSED",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
+      "AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921",
+
+      "IronAppKey": "REPLACE_WITH_LEVELPLAY_APP_KEY",
+      "IronBannerAdUnit": "REPLACE_WITH_LEVELPLAY_BANNER_UNIT",
+      "IronInterstitialAdUnit": "REPLACE_WITH_LEVELPLAY_INTERSTITIAL_UNIT",
+      "IronRewardedAdUnit": "REPLACE_WITH_LEVELPLAY_REWARDED_UNIT",
+      "IronMrecAdUnit": "REPLACE_WITH_LEVELPLAY_MREC_UNIT",
+
+      "UnityGameID": "REPLACE_WITH_UNITY_GAME_ID",
+      "UnityBannerPlacement": "REPLACE_WITH_UNITY_BANNER_PLACEMENT",
+      "UnityInterstitialPlacement": "REPLACE_WITH_UNITY_INTERSTITIAL_PLACEMENT",
+      "UnityRewardedPlacement": "REPLACE_WITH_UNITY_REWARDED_PLACEMENT",
+
+      "PrivacyURL": "https://example.com/harbor/privacy"
+    }
+  }
+}
