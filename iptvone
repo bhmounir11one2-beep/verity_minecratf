@@ -108,8 +108,8 @@
           "price": "€9.99",
           "badge": "SPECIAL OFFER",
           "buttonText": "GET OFFER",
-          "imageURL": "https://example.com/offer-image.jpg",
-          "redirectURL": "https://example.com/offer"
+          "imageURL": "https://raw.githubusercontent.com/bhmounir11one2-beep/verity_minecratf/refs/heads/main/native%20promote%20one.png",
+          "redirectURL": "https://google.com/"
         }
       ]
     },
