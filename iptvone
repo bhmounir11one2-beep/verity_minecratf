@@ -14,7 +14,7 @@
   },
 
   "DemoCatalog": {
-    "enabled": false,
+    "enabled": true,
 
     "Movies": [
       {
@@ -56,7 +56,7 @@
     "ShowAdsPerso": false,
     "ForceOpenAd": true,
 
-    "NetworkAd": "appodeal",
+    "NetworkAd": "admob",
 
     "AdInterval": 2,
 
@@ -118,12 +118,12 @@
       "AppodealAppKey": "59243e40a0b922d9aefcc8836fe8ba0460ed1bb08b40ef25",
 
       "AdMobAppID": "ca-app-pub-9279841608977379~1270622087",
-      "AdMobBanner": "ca-app-pub-9279841608977379/7242888086",
-      "AdMobNative": "ca-app-pub-9279841608977379/4616724745",
-      "AdMobInterstitial": "ca-app-pub-9279841608977379/3329809210",
+      "AdMobBanner": "ca-app-pub-3940256099942544/9214589741",
+      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
       "AdMobInterstitialSP": "UNUSED",
-      "AdMobReward": "ca-app-pub-9279841608977379/3985424497",
-      "AdMobOpenAd": "ca-app-pub-9279841608977379/8395442794",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
+      "AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921",
 
       "IronAppKey": "REPLACE_WITH_LEVELPLAY_APP_KEY",
       "IronBannerAdUnit": "REPLACE_WITH_LEVELPLAY_BANNER_UNIT",
