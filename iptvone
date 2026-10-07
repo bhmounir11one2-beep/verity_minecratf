@@ -53,7 +53,7 @@
 
   "AdsController": {
     "ShowAds": true,
-    "ShowAdsPerso": true,
+    "ShowAdsPerso": false,
     "ForceOpenAd": true,
 
     "NetworkAd": "admob",
