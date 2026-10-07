@@ -14,18 +14,18 @@
   },
 
   "DemoCatalog": {
-    "enabled": false,
+    "enabled": true,
 
     "Movies": [
       {
         "id": "movie_01",
-        "enabled": false,
+        "enabled": true,
         "title": "Example Movie",
         "description": "Example movie description",
         "year": "2026",
         "duration": "01:30:00",
         "previewURL": "https://example.com/movie-poster.jpg",
-        "videoURL": "https://example.com/movie-video.mp4",
+        "videoURL": "https://github.com/bhmounir11one2-beep/verity_minecratf/raw/refs/heads/main/La%20bola%20negra.mp4",
         "license": "authorized",
         "sourceURL": "https://example.com/movie-source"
       }
@@ -44,7 +44,7 @@
           {
             "id": "episode_01",
             "title": "Episode 1",
-            "videoURL": "https://example.com/series-episode-01.mp4"
+            "videoURL": "https://github.com/bhmounir11one2-beep/verity_minecratf/raw/refs/heads/main/La%20bola%20negra.mp4"
           }
         ]
       }
