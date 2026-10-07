@@ -87,8 +87,8 @@
 
     "NativeControl": {
       "Home": true,
-      "Movies": true,
-      "Series": true
+      "Movies": false,
+      "Series": false
     },
 
     "MrecControl": {
