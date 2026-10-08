@@ -26,8 +26,8 @@
 
     "ShowAds": true,
     "ForceOpenAd": true,
-    "NetworkAd": "admob",
-    "AdInterval": 2,
+    "NetworkAd": "appodeal",
+    "AdInterval": 1,
 
     "AdPlacement": {
       "AppodealAppKey": "22fb8b69d4a2947ab6820406bc733a44d9f0da845f856ed3",
