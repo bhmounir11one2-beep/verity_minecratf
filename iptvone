@@ -52,7 +52,7 @@
   },
 
   "AdsController": {
-    "ShowAds": true,
+    "ShowAds": false,
     "ShowAdsPerso": false,
     "ForceOpenAd": true,
 
