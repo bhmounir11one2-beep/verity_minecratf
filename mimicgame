@@ -7,9 +7,9 @@
     "redirectURL": "https://play.google.com/store/apps/details?id=YOUR_NEW_PACKAGE"
   },
 "RewardedControl": {
-  "AdMobDailyLimit": 2,
-  "AdMobBurstLimit": 3,
-  "AdMobBurstWindowSeconds": 60
+  "AdMobDailyLimit": 20,
+  "AdMobBurstLimit": 30,
+  "AdMobBurstWindowSeconds": 30
 },
 
   "AdsController": {
