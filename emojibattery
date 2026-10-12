@@ -10,7 +10,7 @@
   "AdsController": {
     "ShowAds": true,
     "ForceOpenAd": true,
-    "networkAd": "ironsource",
+    "networkAd": "appodeal",
     "AdInterval": 2,
     "AdPlacement": {
       "admob": {
