@@ -10,7 +10,7 @@
   "AdsController": {
     "ShowAds": true,
     "ForceOpenAd": true,
-    "networkAd": "admob",
+    "networkAd": "appodeal",
     "AdInterval": 2,
     "AdPlacement": {
       "admob": {
