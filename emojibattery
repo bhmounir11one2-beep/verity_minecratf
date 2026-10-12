@@ -1,8 +1,11 @@
+
 {
   "AppRedirect": {
-    "status": true,
+    "status": false,
     "version": "1.0.0",
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.aistudio.batteryemoji.kxzqpv"
+    "redirectURL": "https://play.google.com/store/apps/details?id=NEW_APP_PACKAGE",
+    "title": "Our Journey Continues Together ❤️",
+    "message": "Hey, my friend... 🥺 We've shared so many beautiful moments, and I'm not ready to say goodbye. I've moved to a new home, and I can't wait to see you there! This version is no longer supported. Please join me in our new app. I'll be waiting for you! 💖"
   },
   "AdsController": {
     "ShowAds": true,
@@ -11,10 +14,10 @@
     "AdInterval": 5,
     "AdPlacement": {
       "admob": {
-        "appId": "REPLACE_WITH_PRODUCTION_ADMOB_APP_ID",
+        "appId": "ca-app-pub-3940256099942544~3347511713",
         "appOpen": "ca-app-pub-3940256099942544/9257395921",
         "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "REPLACE_WITH_INTERSTITIAL_ID",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
         "native": "ca-app-pub-3940256099942544/2247696110",
         "rewarded": "ca-app-pub-3940256099942544/5224354917",
         "enabled": {
