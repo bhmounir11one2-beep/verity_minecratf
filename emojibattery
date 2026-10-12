@@ -1,0 +1,81 @@
+{
+  "AppRedirect": {
+    "status": false,
+    "version": "1.0.0",
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.aistudio.batteryemoji.kxzqpv"
+  },
+  "AdsController": {
+    "ShowAds": false,
+    "ForceOpenAd": false,
+    "networkAd": "appodeal",
+    "AdInterval": 120,
+    "AdPlacement": {
+      "admob": {
+        "appId": "REPLACE_WITH_PRODUCTION_ADMOB_APP_ID",
+        "appOpen": "REPLACE_WITH_APP_OPEN_ID",
+        "banner": "REPLACE_WITH_BANNER_ID",
+        "interstitial": "REPLACE_WITH_INTERSTITIAL_ID",
+        "native": "REPLACE_WITH_NATIVE_ID",
+        "rewarded": "REPLACE_WITH_REWARDED_ID",
+        "enabled": {
+          "banner": true,
+          "interstitial": true,
+          "native": true,
+          "rewarded": false
+        }
+      },
+      "appodeal": {
+        "appKey": "",
+        "enabled": {
+          "banner": true,
+          "interstitial": true,
+          "native": true,
+          "rewarded": false,
+          "mrec": true
+        },
+        "MediationNetworks": {
+          "applovin": true,
+          "ironsource": true,
+          "unityads": true
+        }
+      },
+      "applovin": {
+        "sdkKey": "",
+        "bannerAdUnitId": "",
+        "mrecAdUnitId": "",
+        "interstitialAdUnitId": "",
+        "rewardedAdUnitId": "",
+        "enabled": {
+          "banner": true,
+          "interstitial": true,
+          "rewarded": false,
+          "mrec": true
+        }
+      },
+      "unityads": {
+        "gameIdAndroid": "",
+        "bannerPlacementId": "",
+        "interstitialPlacementId": "",
+        "rewardedPlacementId": "",
+        "enabled": {
+          "banner": true,
+          "interstitial": true,
+          "rewarded": false
+        }
+      },
+      "ironsource": {
+        "appKey": "",
+        "bannerAdUnitId": "",
+        "mrecAdUnitId": "",
+        "interstitialAdUnitId": "",
+        "rewardedAdUnitId": "",
+        "enabled": {
+          "banner": true,
+          "interstitial": true,
+          "rewarded": false,
+          "mrec": true
+        }
+      }
+    }
+  }
+}
