@@ -10,7 +10,7 @@
   "AdsController": {
     "ShowAds": true,
     "ForceOpenAd": true,
-    "networkAd": "appodeal",
+    "networkAd": "ironsource",
     "AdInterval": 2,
     "AdPlacement": {
       "admob": {
@@ -67,10 +67,10 @@
         }
       },
       "ironsource": {
-        "appKey": "",
-        "bannerAdUnitId": "",
+        "appKey": "28ae0356d",
+        "bannerAdUnitId": "3ocwncay96anbaez",
         "mrecAdUnitId": "",
-        "interstitialAdUnitId": "",
+        "interstitialAdUnitId": "57tq4ltdadacb69h",
         "rewardedAdUnitId": "",
         "enabled": {
           "banner": true,
