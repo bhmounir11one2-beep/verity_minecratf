@@ -13,13 +13,13 @@
     "BannerNetwork": "admob",
     "InterstitialNetwork": "appodeal",
     "InterstitialSPNetwork": "ironsource",
-    "RewardNetwork": "unity",
+    "RewardNetwork": "admob",
     "OpenAdNetwork": "admob",
     "NativeNetwork": "appodeal",
     "QuestionsNativeNetwork": "appodeal",
     "MRECNetwork": "appodeal",
 
-    "AdInterval": 3,
+    "AdInterval": 2,
 
     "NativeAds": true,
     "MREC": true,
