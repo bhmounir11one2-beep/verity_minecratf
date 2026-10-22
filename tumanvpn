@@ -10,13 +10,13 @@
     "ShowAds": true,
     "ForceOpenAd": true,
 
-    "BannerNetwork": "appodeal",
-    "InterstitialNetwork": "admob",
+    "BannerNetwork": "ironsource",
+    "InterstitialNetwork": "ironsource",
     "InterstitialSPNetwork": "admob",
     "RewardNetwork": "admob",
     "OpenAdNetwork": "admob",
-    "NativeNetwork": "admob",
-    "QuestionsNativeNetwork": "appodeal",
+    "NativeNetwork": "ironsource",
+    "QuestionsNativeNetwork": "ironsource",
     "MRECNetwork": "appodeal",
 
     "AdInterval": 2,
