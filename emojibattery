@@ -3,81 +3,87 @@
   "AppRedirect": {
     "status": false,
     "version": "1.0.0",
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.conce.yacine.tv",
-    "title": "Our Journey Continues Together ❤️",
-    "message": "Hey, my friend... 🥺 We've shared so many beautiful moments, and I'm not ready to say goodbye. I've moved to a new home, and I can't wait to see you there! This version is no longer supported. Please join me in our new app. I'll be waiting for you! 💖"
+    "redirectURL": ""
   },
   "AdsController": {
     "ShowAds": true,
     "ForceOpenAd": true,
-    "networkAd": "appodeal",
-    "AdInterval": 2,
+    "AdInterval": 3,
+    "networkAd": "admob",
+
+    "AdNetworks": {
+      "AppOpen": "admob",
+      "Banner": "admob",
+      "Interstitial": "admob",
+      "InterstitialSP": "admob",
+      "Rewarded": "admob",
+      "Native": "admob",
+      "QuestionsNative": "admob",
+      "MREC": "appodeal"
+    },
+
+    "AdPreload": {
+      "enabled": true,
+      "Interstitial": true,
+      "Rewarded": true,
+      "AppOpen": true,
+      "reloadAfterDismiss": true,
+      "reloadAfterFailure": true
+    },
+
+    "ClickControl": {
+      "enabled": true,
+      "globalCounter": true,
+      "interval": 3,
+      "resetAfterSuccessfulDisplay": true,
+      "preservePendingOpportunity": true,
+      "safeNavigationOnly": true
+    },
+
+    "ChargingProtection": {
+      "enabled": true,
+      "excludeChargingEvents": true,
+      "excludeChargingDismiss": true,
+      "excludeNotificationTap": true,
+      "excludeBatteryUpdates": true,
+      "preventAdsOverChargingAnimation": true
+    },
+
     "AdPlacement": {
-      "admob": {
-        "appId": "ca-app-pub-3940256099942544~3347511713",
-        "appOpen": "ca-app-pub-3940256099942544/9257395921",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "native": "ca-app-pub-3940256099942544/2247696110",
-        "rewarded": "ca-app-pub-3940256099942544/5224354917",
-        "enabled": {
-          "banner": true,
-          "interstitial": true,
-          "native": true,
-          "rewarded": false
-        }
+      "AdMobAppID": "",
+      "AppodealAppKey": "",
+      "IronSourceAppKey": "",
+      "UnityGameID": "",
+
+      "AdMob": {
+        "AppOpen": "ca-app-pub-3940256099942544/9257395921",
+        "Banner": "ca-app-pub-3940256099942544/6300978111",
+        "Interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "InterstitialSP": "ca-app-pub-3940256099942544/1033173712",
+        "Rewarded": "ca-app-pub-3940256099942544/5224354917",
+        "Native": "ca-app-pub-3940256099942544/2247696110",
+        "QuestionsNative": "ca-app-pub-3940256099942544/2247696110"
       },
-      "appodeal": {
-        "appKey": "78292972cb9ba8cb7c9d10763b0a4ee6bd7f1607399d10b2",
-        "enabled": {
-          "banner": true,
-          "interstitial": true,
-          "native": true,
-          "rewarded": false,
-          "mrec": true
-        },
-        "MediationNetworks": {
-          "applovin": true,
-          "ironsource": true,
-          "unityads": true
-        }
+
+      "Appodeal": {
+        "Banner": true,
+        "Interstitial": true,
+        "Rewarded": true,
+        "Native": true,
+        "QuestionsNative": true,
+        "MREC": true
       },
-      "applovin": {
-        "sdkKey": "",
-        "bannerAdUnitId": "",
-        "mrecAdUnitId": "",
-        "interstitialAdUnitId": "",
-        "rewardedAdUnitId": "",
-        "enabled": {
-          "banner": true,
-          "interstitial": true,
-          "rewarded": false,
-          "mrec": true
-        }
+
+      "IronSource": {
+        "Banner": "",
+        "Interstitial": "",
+        "Rewarded": ""
       },
-      "unityads": {
-        "gameIdAndroid": "",
-        "bannerPlacementId": "",
-        "interstitialPlacementId": "",
-        "rewardedPlacementId": "",
-        "enabled": {
-          "banner": true,
-          "interstitial": true,
-          "rewarded": false
-        }
-      },
-      "ironsource": {
-        "appKey": "28ae0356d",
-        "bannerAdUnitId": "3ocwncay96anbaez",
-        "mrecAdUnitId": "",
-        "interstitialAdUnitId": "57tq4ltdadacb69h",
-        "rewardedAdUnitId": "",
-        "enabled": {
-          "banner": true,
-          "interstitial": true,
-          "rewarded": false,
-          "mrec": true
-        }
+
+      "Unity": {
+        "Banner": "",
+        "Interstitial": "",
+        "Rewarded": ""
       }
     }
   }
