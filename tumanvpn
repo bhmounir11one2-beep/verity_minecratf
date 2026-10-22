@@ -16,7 +16,7 @@
     "RewardNetwork": "admob",
     "OpenAdNetwork": "admob",
     "NativeNetwork": "admob",
-    "QuestionsNativeNetwork": "admob",
+    "QuestionsNativeNetwork": "appodeal",
     "MRECNetwork": "appodeal",
 
     "AdInterval": 2,
