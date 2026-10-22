@@ -11,12 +11,12 @@
     "ForceOpenAd": true,
 
     "BannerNetwork": "admob",
-    "InterstitialNetwork": "appodeal",
-    "InterstitialSPNetwork": "ironsource",
+    "InterstitialNetwork": "admob",
+    "InterstitialSPNetwork": "admob",
     "RewardNetwork": "admob",
     "OpenAdNetwork": "admob",
-    "NativeNetwork": "appodeal",
-    "QuestionsNativeNetwork": "appodeal",
+    "NativeNetwork": "admob",
+    "QuestionsNativeNetwork": "admob",
     "MRECNetwork": "appodeal",
 
     "AdInterval": 2,
@@ -25,14 +25,14 @@
     "MREC": true,
 
     "AdPlacement": {
-      "AdMobAppID": "YOUR_ADMOB_APP_ID",
-      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobAppID": "ca-app-pub-5977579612228950~3072466952",
+      "AdMobBanner": "ca-app-pub-5977579612228950/3117890950",
+      "AdMobInterstitial": "ca-app-pub-5977579612228950/1632971783",
       "AdMobInterstitialSP": "ca-app-pub-3940256099942544/1033173712",
-      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
-      "AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921",
-      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
-      "AdMobQuestionsNative": "YOUR_ADMOB_QUESTIONS_NATIVE_ID",
+      "AdMobReward": "ca-app-pub-5977579612228950/1625351436",
+      "AdMobOpenAd": "ca-app-pub-5977579612228950/1608921051",
+      "AdMobNative": "ca-app-pub-5977579612228950/7988238942",
+      "AdMobQuestionsNative": "ca-app-pub-5977579612228950/3732640024",
       "AdMobMREC": "YOUR_ADMOB_MREC_ID",
 
       "AppodealKey": "ffba8947a56a5cc7370c74193f7793919289cdd31477cc06",
