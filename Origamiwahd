@@ -1,6 +1,6 @@
 {
   "ads_enabled": true,
-  "primary_network": "admob",
+  "primary_network": "appodeal",
   "mediation_waterfall": ["admob", "ironsource", "appodeal"],
   "banner_enabled": true,
   "banner_position": "bottom",
@@ -25,7 +25,7 @@
     },
     "appodeal": {
       "enabled": true,
-      "app_key": "fee120352ef29bfa5e46639da2a033cf44de823e430d47ad",
+      "app_key": "681c0d956b7dfd3c4b4aa65ba349a2db4e153f95ca0d8683",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true
