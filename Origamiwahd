@@ -1,34 +1,45 @@
+```json
 {
-  "ads_enabled": true,
-  "primary_network": "appodeal",
-  "mediation_waterfall": ["admob", "ironsource", "appodeal"],
-  "banner_enabled": true,
-  "banner_position": "bottom",
-  "interstitial_enabled": true,
-  "interstitial_interval_levels": 2,
-  "rewarded_enabled": true,
-  "test_mode": true,
-  "networks": {
+  "ShowAds": true,
+  "ForceOpenAd": true,
+  "AdInterval": 2,
+  "networkAd": "appodeal",
+  "AdNetworks": {
+    "app_open": "admob",
+    "interstitial": "appodeal",
+    "banner": "appodeal",
+    "native": "admob",
+    "mrec": "appodeal",
+    "rewarded": "admob"
+  },
+  "AdPlacement": {
     "admob": {
-      "enabled": true,
-      "app_id": "ca-app-pub-3940256099942544~3347511713",
-      "banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917"
-    },
-    "ironsource": {
-      "enabled": true,
-      "app_key": "1c0b39695",
-      "banner_enabled": true,
-      "interstitial_enabled": true,
-      "rewarded_enabled": true
+      "appId": "ca-app-pub-8431582746889539~9024992592",
+      "app_open": "ca-app-pub-3940256099942544/9257395921",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "banner": "ca-app-pub-3940256099942544/9214589741",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "rewarded": "ca-app-pub-3940256099942544/5354046379"
     },
     "appodeal": {
-      "enabled": true,
-      "app_key": "681c0d956b7dfd3c4b4aa65ba349a2db4e153f95ca0d8683",
-      "banner_enabled": true,
-      "interstitial_enabled": true,
-      "rewarded_enabled": true
+      "appKey": "681c0d956b7dfd3c4b4aa65ba349a2db4e153f95ca0d8683"
+    },
+    "ironsource": {
+      "appKey": "28f9ca285"
+    },
+    "unity": {
+      "gameId": "YOUR_UNITY_GAME_ID",
+      "interstitial": "YOUR_UNITY_INTERSTITIAL",
+      "rewarded": "YOUR_UNITY_REWARDED",
+      "banner": "YOUR_UNITY_BANNER"
     }
+  },
+  "AppRedirect": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "url": "",
+    "packageName": ""
   }
 }
+```
