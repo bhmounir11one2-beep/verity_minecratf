@@ -1,5 +1,5 @@
 {
-  "ShowAds": true,
+  "ShowAds": false,
   "ForceOpenAd": true,
   "AdInterval": 2,
   "networkAd": "admob",
