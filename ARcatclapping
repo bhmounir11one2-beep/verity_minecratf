@@ -1,5 +1,5 @@
 {
-  "ShowAds": false,
+  "ShowAds": true,
   "ForceOpenAd": true,
   "AdInterval": 2,
   "networkAd": "admob",
@@ -14,10 +14,10 @@
   "AdPlacement": {
     "admob": {
       "appId": "ca-app-pub-3940256099942544/9257395921",
-      "app_open": "YOUR_ADMOB_APP_OPEN_ID",
+      "app_open": "ca-app-pub-3940256099942544/9257395921",
       "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "banner": "YOUR_ADMOB_BANNER_ID",
-      "native": "YOUR_ADMOB_NATIVE_ID",
+      "banner": "ca-app-pub-3940256099942544/9214589741",
+      "native": "ca-app-pub-3940256099942544/2247696110",
       "rewarded": "YOUR_ADMOB_REWARDED_ID"
     },
     "appodeal": {
