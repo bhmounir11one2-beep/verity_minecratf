@@ -1,0 +1,43 @@
+{
+  "ShowAds": true,
+  "ForceOpenAd": true,
+  "AdInterval": 2,
+  "networkAd": "admob",
+  "AdNetworks": {
+    "app_open": "admob",
+    "interstitial": "admob",
+    "banner": "admob",
+    "native": "admob",
+    "mrec": "appodeal",
+    "rewarded": "admob"
+  },
+  "AdPlacement": {
+    "admob": {
+      "appId": "ca-app-pub-3940256099942544/9257395921",
+      "app_open": "YOUR_ADMOB_APP_OPEN_ID",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "banner": "YOUR_ADMOB_BANNER_ID",
+      "native": "YOUR_ADMOB_NATIVE_ID",
+      "rewarded": "YOUR_ADMOB_REWARDED_ID"
+    },
+    "appodeal": {
+      "appKey": "YOUR_APPODEAL_APP_KEY"
+    },
+    "ironsource": {
+      "appKey": "YOUR_LEVELPLAY_APP_KEY"
+    },
+    "unity": {
+      "gameId": "YOUR_UNITY_GAME_ID",
+      "interstitial": "YOUR_UNITY_INTERSTITIAL_ID",
+      "rewarded": "YOUR_UNITY_REWARDED_ID",
+      "banner": "YOUR_UNITY_BANNER_ID"
+    }
+  },
+  "AppRedirect": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "url": "",
+    "packageName": ""
+  }
+}
