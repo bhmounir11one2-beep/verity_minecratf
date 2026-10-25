@@ -1,0 +1,26 @@
+{
+  "AdsController": {
+    "ShowAds": true,
+    "ForceOpenAd": false,
+    "networkAd": "admob",
+    "AdInterval": 3,
+    "AdPlacement": {
+      "admob": {
+        "appId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "appOpen": "ca-app-pub-3940256099942544/9257395921"
+      },
+      "appodeal": {
+        "appKey": "e1f2a3b4c5d6e7f8091a2b3c4d5e6f7a"
+      }
+    }
+  },
+  "AppRedirect": {
+    "status": false,
+    "version": "1.0.0",
+    "redirectURL": ""
+  }
+}
