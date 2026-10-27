@@ -6,7 +6,7 @@
     "AdInterval": 1,
     "AdPlacement": {
       "admob": {
-        "appId": "YOUR_ADMOB_APP_ID",
+        "appId": "ca-app-pub-9279841608977379~1546328952",
         "appOpen": "ca-app-pub-3940256099942544/9257395921",
         "banner": "ca-app-pub-3940256099942544/6300978111",
         "interstitial": "ca-app-pub-3940256099942544/1033173712",
