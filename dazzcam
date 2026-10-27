@@ -3,7 +3,7 @@
     "ShowAds": true,
     "ForceOpenAd": true,
     "networkAd": "admob",
-    "AdInterval": 2,
+    "AdInterval": 1,
     "AdPlacement": {
       "admob": {
         "appId": "YOUR_ADMOB_APP_ID",
