@@ -2,7 +2,7 @@
   "AdsController": {
     "ShowAds": true,
     "ForceOpenAd": true,
-    "networkAd": "admob",
+    "networkAd": "appodeal",
     "AdInterval": 1,
     "AdPlacement": {
       "admob": {
@@ -14,7 +14,7 @@
         "native": "ca-app-pub-3940256099942544/2247696110"
       },
       "appodeal": {
-        "appKey": "YOUR_APPODEAL_APP_KEY"
+        "appKey": "e5ba4e92d513dff4f84a16066bb8d2aa981e1d9d0cb93ecf"
       },
       "ironsource": {
         "appKey": "YOUR_LEVELPLAY_APP_KEY",
