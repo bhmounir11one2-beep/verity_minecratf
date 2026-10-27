@@ -2,7 +2,7 @@
   "AdsController": {
     "ShowAds": true,
     "ForceOpenAd": true,
-    "networkAd": "appodeal",
+    "networkAd": "ironsource",
     "AdInterval": 1,
     "AdPlacement": {
       "admob": {
@@ -17,9 +17,9 @@
         "appKey": "e5ba4e92d513dff4f84a16066bb8d2aa981e1d9d0cb93ecf"
       },
       "ironsource": {
-        "appKey": "YOUR_LEVELPLAY_APP_KEY",
-        "banner": "YOUR_LEVELPLAY_BANNER_AD_UNIT_ID",
-        "interstitial": "YOUR_LEVELPLAY_INTERSTITIAL_AD_UNIT_ID",
+        "appKey": "2908946ed",
+        "banner": "w6ztx26rklhbkwwj",
+        "interstitial": "7idvyz9ajfi5dqtz",
         "rewarded": "YOUR_LEVELPLAY_REWARDED_AD_UNIT_ID",
         "mrec": "YOUR_LEVELPLAY_MREC_AD_UNIT_ID"
       }
