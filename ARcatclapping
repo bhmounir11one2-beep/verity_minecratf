@@ -13,12 +13,12 @@
   },
   "AdPlacement": {
     "admob": {
-      "appId": "ca-app-pub-3940256099942544/9257395921",
+      "appId": "ca-app-pub-8431582746889539~3572908254",
       "app_open": "ca-app-pub-3940256099942544/9257395921",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "banner": "ca-app-pub-3940256099942544/9214589741",
-      "native": "ca-app-pub-3940256099942544/2247696110",
-      "rewarded": "YOUR_ADMOB_REWARDED_ID"
+      "interstitial": "ca-app-pub-8431582746889539/3166336264",
+      "banner": "ca-app-pub-8431582746889539/5069822751",
+      "native": "ca-app-pub-8431582746889539/2663151263",
+      "rewarded": "ca-app-pub-8431582746889539/6624531283"
     },
     "appodeal": {
       "appKey": "YOUR_APPODEAL_APP_KEY"
