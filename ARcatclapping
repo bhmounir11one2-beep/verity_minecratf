@@ -6,7 +6,7 @@
   "AdNetworks": {
     "app_open": "admob",
     "interstitial": "admob",
-    "banner": "admob",
+    "banner": "appodeal",
     "native": "admob",
     "mrec": "appodeal",
     "rewarded": "admob"
