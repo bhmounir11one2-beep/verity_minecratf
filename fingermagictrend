@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "ShowAds": true,
+    "ShowAds": false,
     "ForceOpenAd": true,
     "AdInterval": 1,
     "networkAd": "admob",
