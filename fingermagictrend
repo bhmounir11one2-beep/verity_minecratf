@@ -1,0 +1,32 @@
+{
+  "AdsController": {
+    "ShowAds": true,
+    "ForceOpenAd": true,
+    "AdInterval": 1,
+    "networkAd": "admob",
+    "AdPlacement": {
+      "admob": {
+        "appId": "YOUR_ADMOB_APP_ID",
+        "appOpen": "ca-app-pub-3940256099942544/9257395921",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded": "YOUR_ADMOB_REWARDED_ID",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "native": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "appodeal": {
+        "appKey": "YOUR_APPODEAL_APP_KEY"
+      },
+      "ironsource": {
+        "appKey": "YOUR_LEVELPLAY_APP_KEY",
+        "interstitial": "YOUR_LEVELPLAY_INTERSTITIAL_AD_UNIT",
+        "rewarded": "YOUR_LEVELPLAY_REWARDED_AD_UNIT",
+        "banner": "YOUR_LEVELPLAY_BANNER_AD_UNIT"
+      }
+    }
+  },
+  "AppRedirect": {
+    "status": false,
+    "version": "1.0.0",
+    "redirectURL": ""
+  }
+}
