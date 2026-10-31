@@ -252,15 +252,15 @@
     ],
     "Addons": [
       {
-        "title": "The Cat In The Hat",
-        "addonLink": "https://www.curseforge.com/api/v1/mods/1692676/files/8879495/download",
+        "title": "DontCry Horror",
+        "addonLink": "https://www.curseforge.com/api/v1/mods/1566054/files/9177575/download",
         "isLocked": false,
         "coins": 0,
-        "description": "This mod adds the Cat in the Hat and a terrifying experience, along with various events that will scare you.",
+        "description": "A Minecraft horror mod that adds creepy stalker encounters, scary sounds, and unsettling nighttime events.",
         "preview": [
-          "https://media.forgecdn.net/attachments/1945/807/cat2-png.png",
-          "https://media.forgecdn.net/attachments/1945/813/captura-de-tela-2026-09-13-210750-png.png",
-          "https://media.forgecdn.net/attachments/1945/806/cat1-png.png"
+          "https://i.ytimg.com/vi/aRufWHJjCG4/maxresdefault.jpg",
+          "https://media.forgecdn.net/attachments/1719/653/2026-06-05_22-22-25-png.png",
+          "https://media.forgecdn.net/attachments/2052/978/imagdqsqdsqdse-png.png"
         ]
       },
       {
