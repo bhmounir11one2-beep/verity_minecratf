@@ -12,7 +12,7 @@
       "⚠️Warning: OpenAd work only on admob at time.",
       "When use OpenAd, the Interstitial Splash not working !"
     ],
-    "ShowAds": true,
+    "ShowAds": false,
     "ForceOpenAd": true,
     "BannerNetwork": "admob",
     "InterstitialNetwork": "admob",
@@ -69,23 +69,25 @@
   "MinecraftData": {
     "Maps": [
       {
-        "title": "CAT IN THE HAT 1",
-        "mapLink": "https://www.curseforge.com/api/v1/mods/1626730/files/8613067/download",
+        "title": "a Backrooms horror map",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/897142/files/9349236/download",
         "isLocked": false,
         "coins": 0,
-        "description": "Replaces the Cave Dweller Reimagined with the Cat in the Hat. Now when you go into a cave it will be the Cat in the Hat chasing you.",
+        "description": "After nocliping through the floor you find yourself in a strange place out of our reality, seems like nobody is nearby but something's not okay... This is a 1.21.6+ minecraft map that counts with it's own resource pack and datapack that complements each other",
         "preview": [
-          "https://media.forgecdn.net/attachments/1845/137/screenshot-2026-08-05-093101-png.png"
+          "https://media.forgecdn.net/attachments/704/643/im22323232780age.png"
         ]
       },
       {
-        "title": "CAT IN THE HAT 2 MOD",
-        "mapLink": "https://www.curseforge.com/api/v1/mods/1640462/files/8582305/download",
+        "title": "Survival Starter House for Horror",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/1638408/files/8572449/download",
         "isLocked": false,
         "coins": 0,
         "description": "Requires the Man from the Fog mod. This Pack replaces the man from the Fog with the cat from the hat. Theres no doubt about about that. I might update this in the future because the jumpscares are pngs and I didnt feel like changing them.",
         "preview": [
-          "https://media.forgecdn.net/attachments/1845/149/screenshot-2026-08-05-094255-png.png"
+          "https://media.forgecdn.net/attachments/1841/826/2026-08-04_01-55-04-png.png",
+          "https://media.forgecdn.net/attachments/1841/830/2026-08-04_01-55-31-png.png",
+          "https://media.forgecdn.net/attachments/1841/829/2026-08-04_01-55-28-png.png"
         ]
       },
       {
