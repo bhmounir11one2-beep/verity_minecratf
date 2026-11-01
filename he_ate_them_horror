@@ -253,13 +253,16 @@
     ],
     "Addons": [
       {
-        "title": "JENNY STAGE 1",
-        "addonLink": "https://keyboard-counter.online/data/addons/ModernFurniture/modern-furniture.zip",
+        "title": "The Box Of Horrors",
+        "addonLink": "blob:https://modrinth.com/8a926cbe-ac35-4acd-833f-e48a472856a4",
         "isLocked": false,
         "coins": 0,
-        "description": "The addon brings more than 750 furniture with color variants and much more! Prepared both for a survival world and for a creative game.",
+        "description": "The Box of Horrors is a mod that adds multiple iconic horror characters to your minecraft survival world, making it your personal hell,DO NOT REMOVE THE MOD FROM YOUR WORLD, IF YOU DO USE AN NBT EDITOR TO FIX YOUR SAVE",
         "preview": [
-          "https://downloadjennymod.org/wp-content/uploads/2026/07/Bia-Prowell-character-from-jenny-mod-683x1024.webp"
+          "https://cdn.modrinth.com/data/Nt0wLqt5/images/42b3ef2f9c36f9f9466328aff79ce047d29662e4.jpeg",
+          "https://cdn.modrinth.com/data/Nt0wLqt5/images/52b588676f53e3da1fa49d5aae987566a4863734.jpeg",
+          "https://cdn.modrinth.com/data/Nt0wLqt5/images/f10f8fce4c599e3fccb9793ae500cffd3a787528.jpeg",
+          "https://cdn.modrinth.com/data/Nt0wLqt5/images/b8391999fbac47a183a1639c53253a19814ff47f.jpeg"
         ]
       },
       {
