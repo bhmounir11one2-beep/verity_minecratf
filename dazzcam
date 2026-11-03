@@ -2,16 +2,16 @@
   "AdsController": {
     "ShowAds": true,
     "ForceOpenAd": true,
-    "networkAd": "ironsource",
+    "networkAd": "admob",
     "AdInterval": 1,
     "AdPlacement": {
       "admob": {
-        "appId": "ca-app-pub-9279841608977379~1546328952",
-        "appOpen": "ca-app-pub-3940256099942544/9257395921",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "rewarded": "ca-app-pub-3940256099942544/5224354917",
-        "native": "ca-app-pub-3940256099942544/2247696110"
+        "appId": "ca-app-pub-8431582746889539~9221237011",
+        "appOpen": "ca-app-pub-8431582746889539/9792082650",
+        "banner": "ca-app-pub-8431582746889539/8458644674",
+        "interstitial": "ca-app-pub-8431582746889539/6595073675",
+        "rewarded": "ca-app-pub-8431582746889539/2173659118",
+        "native": "ca-app-pub-8431582746889539/5832481333"
       },
       "appodeal": {
         "appKey": "e5ba4e92d513dff4f84a16066bb8d2aa981e1d9d0cb93ecf"
