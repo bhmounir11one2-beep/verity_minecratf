@@ -1,6 +1,6 @@
 {
   "ShowAds": true,
-  "networkAd": "admob",
+  "networkAd": "appodeal",
   "AdInterval": 2,
   "ForceOpenAd": true,
   "QuestionsNative": true,
@@ -20,7 +20,7 @@
       "questionsNative": "ca-app-pub-3940256099942544/2247696110"
     },
     "appodeal": {
-      "appKey": "YOUR_APPODEAL_APP_KEY"
+      "appKey": "19e04f2d8ee1afc540f1058ffee9c6061ed04a049ce2c32f"
     }
   }
 }
