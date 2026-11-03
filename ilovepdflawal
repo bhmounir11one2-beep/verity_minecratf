@@ -1,0 +1,26 @@
+{
+  "ShowAds": true,
+  "networkAd": "admob",
+  "AdInterval": 2,
+  "ForceOpenAd": true,
+  "QuestionsNative": true,
+  "AppRedirect": {
+    "status": false,
+    "version": "",
+    "redirectURL": ""
+  },
+  "AdPlacement": {
+    "admob": {
+      "appId": "ca-app-pub-3940256099942544/2247696110",
+      "banner": "ca-app-pub-3940256099942544/9214589741",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "appOpen": "ca-app-pub-3940256099942544/9257395921",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "questionsNative": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "appodeal": {
+      "appKey": "YOUR_APPODEAL_APP_KEY"
+    }
+  }
+}
