@@ -3,7 +3,7 @@
     "ShowAds": true,
     "ForceOpenAd": true,
     "networkAd": "admob",
-    "AdInterval": 1,
+    "AdInterval": 4,
     "AdPlacement": {
       "admob": {
         "appId": "ca-app-pub-8431582746889539~9221237011",
