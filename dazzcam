@@ -2,8 +2,8 @@
   "AdsController": {
     "ShowAds": true,
     "ForceOpenAd": true,
-    "networkAd": "admob",
-    "AdInterval": 4,
+    "networkAd": "ironsource",
+    "AdInterval": 2,
     "AdPlacement": {
       "admob": {
         "appId": "ca-app-pub-8431582746889539~9221237011",
