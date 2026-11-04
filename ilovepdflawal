@@ -1,7 +1,7 @@
 {
   "ShowAds": true,
   "networkAd": "appodeal",
-  "AdInterval": 2,
+  "AdInterval": 4,
   "ForceOpenAd": true,
   "QuestionsNative": true,
   "AppRedirect": {
