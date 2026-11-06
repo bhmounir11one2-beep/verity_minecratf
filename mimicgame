@@ -27,18 +27,18 @@
     "ShowAds": true,
     "ForceOpenAd": true,
     "NetworkAd": "admob",
-    "AdInterval": 1,
+    "AdInterval": 2,
 
     "AdPlacement": {
       "AppodealAppKey": "22fb8b69d4a2947ab6820406bc733a44d9f0da845f856ed3",
 
       "AdMobAppID": "ca-app-pub-5977579612228950~4830117786",
-      "AdMobBanner": "ca-app-pub-5977579612228950/4053763759",
-      "AdMobNative": "ca-app-pub-5977579612228950/9904856235",
-      "AdMobInterstitial": "ca-app-pub-5977579612228950/3376026772",
-      "AdMobInterstitialSP": "ca-app-pub-5977579612228950/6828275910",
-      "AdMobReward": "ca-app-pub-5977579612228950/5105449956",
-      "AdMobOpenAd": "ca-app-pub-5977579612228950/5105449956",
+      "AdMobBanner": "ca-app-pub-5977579612228950/9207246414",
+      "AdMobNative": "ca-app-pub-5977579612228950/2506106693",
+      "AdMobInterstitial": "ca-app-pub-5977579612228950/6663797371",
+      "AdMobInterstitialSP": "ca-app-pub-5977579612228950/6663797371",
+      "AdMobReward": "ca-app-pub-5977579612228950/1274730163",
+      "AdMobOpenAd": "ca-app-pub-5977579612228950/9912777248",
 
       "PrivacyURL": "YOUR_PRIVACY_POLICY_URL"
     }
