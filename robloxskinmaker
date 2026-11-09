@@ -1,17 +1,17 @@
 {
   "AdsController": {
     "ShowAds": true,
-    "ForceOpenAd": false,
+    "ForceOpenAd": true,
     "networkAd": "admob",
     "AdInterval": 3,
     "AdPlacement": {
       "admob": {
-        "appId": "ca-app-pub-3940256099942544~3347511713",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "rewarded": "ca-app-pub-3940256099942544/5224354917",
-        "native": "ca-app-pub-3940256099942544/2247696110",
-        "appOpen": "ca-app-pub-3940256099942544/9257395921"
+        "appId": "ca-app-pub-9279841608977379~4987591924",
+        "banner": "ca-app-pub-9279841608977379/7167691840",
+        "interstitial": "ca-app-pub-9279841608977379/4858444466",
+        "rewarded": "ca-app-pub-9279841608977379/6109101906",
+        "native": "ca-app-pub-9279841608977379/1539301501",
+        "appOpen": "ca-app-pub-9279841608977379/2580920438"
       },
       "appodeal": {
         "appKey": "e1f2a3b4c5d6e7f8091a2b3c4d5e6f7a"
