@@ -274,16 +274,14 @@
         ]
       },
       {
-        "title": "MineCars Addon",
-        "addonLink": "https://keyboard-counter.online/data/carsv2/CarAddons/MineCars-Addon_latest/MineCars-Addon_latest.mcaddon",
+        "title": "DontCry Horror",
+        "addonLink": "https://www.curseforge.com/api/v1/mods/1566054/files/9177575/download",
         "isLocked": false,
         "coins": 0,
-        "description": "Add a variety of fun and functional cars to your Minecraft world with the MineCars Addon.",
+        "description": "DontCry is a Minecraft horror mod inspired mainly by scripted horror videos from popular YouTubers such as Swayle, Syllo, and others. The mod primarily features 2D creatures .",
         "preview": [
-          "https://keyboard-counter.online/data/carsv2/CarAddons/MineCars-Addon_latest/1.jpg",
-          "https://keyboard-counter.online/data/carsv2/CarAddons/MineCars-Addon_latest/2.jpg",
-          "https://keyboard-counter.online/data/carsv2/CarAddons/MineCars-Addon_latest/3.jpg",
-          "https://keyboard-counter.online/data/carsv2/CarAddons/MineCars-Addon_latest/4.jpg"
+          "https://media.forgecdn.net/attachments/1719/653/2026-06-05_22-22-25-png.png",
+          "https://media.forgecdn.net/attachments/2052/978/imagdqsqdsqdse-png.png"
         ]
       },
       {
