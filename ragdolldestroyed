@@ -5,13 +5,19 @@
   "ForceOpenAd": true,
 
 
+  
+
   "AppRedirect": {
     "status": true,
     "version": "1.0.0",
     "redirectURL": "https://www.google.com",
-    "forceRedirect": true
-
+    "forceRedirect": true,
+    "title": "NEW ADVENTURES AWAIT!",
+    "message": "Discover exciting new worlds, explore amazing experiences, and start your next adventure today!",
+    "buttonText": "EXPLORE NOW"
   },
+
+
   "admob": {
     "appId": "ca-app-pub-8431582746889539~7002918156",
     "appOpenId": "ca-app-pub-8431582746889539/2085312595",
