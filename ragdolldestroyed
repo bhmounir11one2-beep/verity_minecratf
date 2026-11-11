@@ -10,12 +10,12 @@
     "forceRedirect": false
   },
   "admob": {
-    "appId": "",
-    "appOpenId": "ca-app-pub-3940256099942544/9257395921",
-    "interstitialId": "ca-app-pub-3940256099942544/1033173712",
-    "rewardedId": "ca-app-pub-3940256099942544/5224354917",
-    "nativeId": "ca-app-pub-3940256099942544/2247696110",
-    "bannerId": "ca-app-pub-3940256099942544/9214589741"
+    "appId": "ca-app-pub-8431582746889539~7002918156",
+    "appOpenId": "ca-app-pub-8431582746889539/2085312595",
+    "interstitialId": "ca-app-pub-8431582746889539/9960253982",
+    "rewardedId": "ca-app-pub-8431582746889539/2101945261",
+    "nativeId": "ca-app-pub-8431582746889539/8267577563",
+    "bannerId": "ca-app-pub-8431582746889539/8475781928"
   },
   "appodeal": {
     "appKey": ""
