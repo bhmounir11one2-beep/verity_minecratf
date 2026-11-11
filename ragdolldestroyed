@@ -8,7 +8,7 @@
   "AppRedirect": {
     "status": true,
     "version": "1.0.0",
-    "redirectURL": "www.google.com",
+    "redirectURL": "https://www.google.com",
     "forceRedirect": true
 
   },
