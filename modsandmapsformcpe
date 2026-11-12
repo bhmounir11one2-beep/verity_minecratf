@@ -75,193 +75,95 @@
   "MinecraftData": {
     "Maps": [
       {
-        "title": "Horror Elements mod",
-        "mapLink": "https://www.curseforge.com/api/v1/mods/496520/files/8756272/download",
+        "title": "One Block",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/1090042/files/8922227/download",
         "isLocked": false,
         "coins": 0,
-        "description": "A mod that adds decorative blocks for your horror maps and spooky structures for your survival world",
+        "description": "One block the new adventure of Minecraft",
         "preview": [
-          "https://media.forgecdn.net/attachments/548/895/get-out-and-heads.png",
-          "https://media.forgecdn.net/attachments/548/898/sliced-body.png",
-          "https://media.forgecdn.net/attachments/548/895/get-out-and-heads.png",
-          "https://media.forgecdn.net/attachments/805/716/laboratory-cell.png",
-          "https://media.forgecdn.net/attachments/805/691/2024-02-10_14.png"
+          "https://media.forgecdn.net/attachments/1959/644/picsart_26-09-18_10-57-26-606-png.png",
+          "https://media.forgecdn.net/attachments/1959/622/screenshot-2026-09-18-191738-png.png",
+          "https://media.forgecdn.net/attachments/1959/535/screenshot-2026-09-18-185638-png.png",
+          "https://media.forgecdn.net/attachments/1742/112/dta-one-block1-png.png",
+          "https://media.forgecdn.net/attachments/1742/100/screenshot-2026-06-18-143440-png.png"
         ]
       },
       {
-        "title": "Verity Horrors - An Immersive Experience",
-        "mapLink": "https://edge.mcpedl.com/files/8593/642/ThatMob%27s%20Verity%203.2.0%20by%20PnTMC%20%5bAdd-on%5d%20-%20V26.40.mcaddon?ft=bbfa37e2673c6cc065f61e12d0023756&bd=ss5fdlmroqk&_gl=1*1gz0tye*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgxNjY4JGozOCRsMCRoMA..",
+        "title": "Ultimate All Kits PvP Map",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/1603924/files/9406377/download",
         "isLocked": false,
         "coins": 0,
-        "description": "Verity Horrors is an immersive Minecraft horror modpack designed to transform every exploration into a terrifying experience.\nFrom abandoned forests to pitch-black caves, you'll never know what's watching you...\n\nPrepare yourself for terrifying encounters, unsettling sounds, dynamic environments, and creatures inspired by modern internet horror.",
+        "description": "The Ultimate Minecraft Bedrock PvP map with one-click kit equip, multiple PvP modes, and a huge battle arena. Choose your favorite kit and jump straight into action without any setup",
         "preview": [
-          "https://media.forgecdn.net/attachments/1742/123/verity-thumbnail-2-1-png.png",
-          "https://media.forgecdn.net/attachments/1743/633/screenshot-2026-06-19-132325-png.png",
-          "https://media.forgecdn.net/attachments/1738/596/screenshot-2026-06-16-152523-png.png"
+          "https://img.youtube.com/vi/HISR4dzrCto/maxresdefault.jpg",
+          "https://media.forgecdn.net/attachments/description/1603924/description_52ed5af8-2e4b-4a0c-8351-1c11b42d8909.gif",
+          "https://media.forgecdn.net/attachments/description/1603924/description_c9efb945-8988-4ff9-a545-6e2ea33f6f3a.gif"
         ]
       },
       {
-        "title": "Your Friend Verity",
-        "mapLink": "https://edge.mcpedl.com/files/8612/336/VerityV1.2.1.mcaddon?ft=bbfa37e2673c6cc065f61e12d0023756&bd=ss5fdlmroqk&_gl=1*1tdjiuz*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgxNjY4JGozOCRsMCRoMA..",
+        "title": "3500 Days Hardcore Survival",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/1467899/files/9396440/download",
         "isLocked": true,
         "coins": 50,
-        "description": "Welcome to School Hogwarts, a Minecraft map that recreates the iconic wizarding school. Wander through grand halls, attend magical lessons, and uncover secrets in this enchanting and immersive adventure!",
+        "description": "Explore Baku's 3500 Days Hardcore World! Discover massive castles, stunning builds, automatic farms, endless resources, rare loot, maces, totems, and three incredible survival regions",
         "preview": [
-          "https://media.forgecdn.net/attachments/1834/700/verity-png.png",
-          "https://media.forgecdn.net/attachments/description/null/description_19e3dede-3879-4309-b38c-bb7320eef173.webp",
-          "https://media.forgecdn.net/attachments/description/null/description_416e5eb1-d508-4bc6-adc4-1eeab0e22c5a.webp",
-          "https://media.forgecdn.net/attachments/description/null/description_53f41162-2667-4009-acbf-1667cfefd58b.webp",
-          "https://keyboard-counter.online/data/schoolMaps//school-hogwarts/5.jpg"
+          "https://img.youtube.com/vi/z_FF3ZduwEw/maxresdefault.jpg",
+          "https://media.forgecdn.net/attachments/1636/806/img_0281-png.png",
+          "https://media.forgecdn.net/attachments/1636/804/img_0283-png.png",
+          "https://media.forgecdn.net/attachments/1636/805/img_0282-png.png",
+          "https://media.forgecdn.net/attachments/1636/809/img_0278-png.png"
         ]
       },
       {
-        "title": "Arvex Verity AMIX",
-        "mapLink": "https://edge.mcpedl.com/files/8486/768/ArvexVerity.mcpack?ft=861ab790231c6fd02eac2f377444bafe&bd=ss5fdlmroqk&_gl=1*1brccsh*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgyNzkxJGo1OCRsMCRoMA..",
+        "title": "OP Tool Smith + Mod",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/1248566/files/9378821/download",
         "isLocked": false,
         "coins": 0,
-        "description": "a Minecraft map featuring a unique school set in a charming town. Engage in exciting activities, explore the local community, and enjoy a blend of education and adventure!",
+        "description": "A survival map with a modified Villager that has over-powered Netherite armor and tools for trade after you unlock their final level. (You can still get Achievements in this world",
         "preview": [
-          "https://media.forgecdn.net/attachments/1812/268/1000143936-jpg.jpg",
-          "https://media.forgecdn.net/attachments/description/1575941/description_cbb16d30-505b-479e-b436-359203aee847.png"
+          "https://media.forgecdn.net/attachments/1164/901/mcpedl-png.png",
+          "https://media.forgecdn.net/attachments/description/null/description_218e5692-5d9c-4bba-aa0d-bed756199455.png"
         ]
       },
       {
-        "title": "Verity Totem",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-academia/school-academia.mcworld",
-        "isLocked": false,
-        "coins": 0,
-        "description": "A resource pack that replaces the Totem of Undying with a Verity Totem from Something is Knocking at Your Door",
+        "title": "Lucky Flat World V3",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/1290252/files/9396486/download",
+        "isLocked": true,
+        "coins": 500,
+        "description": "An infinite world made up entirely of Lucky Blocks",
         "preview": [
-          "https://media.forgecdn.net/attachments/1772/128/mcpedl-png.png",
-          "https://media.forgecdn.net/attachments/1772/128/mcpedl-png.png",
-          "https://media.forgecdn.net/attachments/1772/130/ingame-png.png",
-          ""
+          "https://media.forgecdn.net/attachments/1225/408/mcpedl-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1249/18/layers-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1249/20/night-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1252/194/vibrant-visuals-jpg.jpg"
         ]
       },
       {
-        "title": "Verity Horror",
+        "title": "Post Apocalypse City",
         "mapLink": "https://edge.mcpedl.com/files/8517/713/Morph%20Into%20Verity%20V1.1.2.mcaddon?ft=861ab790231c6fd02eac2f377444bafe&bd=ss5fdlmroqk&_gl=1*1i09iks*_ga*MTg0Nzc2Mjg0NC4xNzg1MjQ5NjYx*_ga_8DG4HWQ88X*czE3ODY0ODAyODYkbzE5JGcxJHQxNzg2NDgzMDE1JGo2MCRsMCRoMA..",
-        "isLocked": false,
-        "coins": 0,
-        "description": "In the Morph Into Verity, Falsity, Cruelity and Lovity addon, you can morph into the following characters:\n\nVerity\nFalsity\nCruelity\nLovity\nVerity Fusion (Verity fused with Minecraft mobs)\nThere are 35 playable characters in total: 27 Verity characters and 8 Verity Fusion characters.\n\nCharacters such as Falsity, Cruelity, and Lovity are not displayed by their actual names. Instead, they appear as Verity Phase 1 through Verity Phase 27.\n\nThe images below showcase all of the characters you can morph into.",
+        "isLocked": true,
+        "coins": 200,
+        "description": "Post apocalyptic city building on a custom survival island - Includes everything needed for playing survival!",
         "preview": [
-          "https://media.forgecdn.net/attachments/1821/501/mcpedl-png.png",
-          "https://media.forgecdn.net/attachments/description/1622268/description_7ed0e992-8b23-40c9-b6a3-34aed805dbe2.png",
-          "https://media.forgecdn.net/attachments/description/1622268/description_acfb9813-712a-4bb9-a223-48461a9b8670.png",
-          "https://media.forgecdn.net/attachments/description/1622268/description_76660c58-fea1-41b0-82fc-97a30585fff1.png",
-          "https://media.forgecdn.net/attachments/1821/501/mcpedl-png.png"
+          "https://media.forgecdn.net/attachments/2059/656/mcpedl-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1474/731/2026-01-17_11-58-48-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1474/730/2026-01-17_11-58-40-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1474/732/2026-01-17_11-59-02-jpg.jpg",
+          "https://media.forgecdn.net/attachments/1474/739/2026-01-17_12-00-31-jpg.jpg"
         ]
       },
       {
-        "title": "School Baldi",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-baldi/school-baldi.mcworld",
+        "title": "Biome Spiral Parkour",
+        "mapLink": "https://www.curseforge.com/api/v1/mods/1359255/files/8690321/download",
         "isLocked": false,
         "coins": 0,
-        "description": "Enter the quirky world of School Baldi, a Minecraft map inspired by the eerie and challenging school setting. Solve puzzles, avoid obstacles, and navigate through this thrilling and unpredictable adventure!",
+        "description": "Biome Spiral Parkour takes you on an amazing parkour journey through all the Minecraft biomes. Can you parkour your way to the top of the Spiral Tower and defeat the Ender Dragon at the end? Come find out and put your parkour skills to the test!",
         "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-baldi/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-baldi/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-baldi/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-baldi/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-baldi/5.jpg"
-        ]
-      },
-      {
-        "title": "The Doom of Satans Slaves",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//the-doom-of-satans-slaves/the-doom-of-satans-slaves.mcworld",
-        "isLocked": false,
-        "coins": 0,
-        "description": "Brace yourself for The Doom of Satans Slaves, a thrilling Minecraft map filled with dark challenges and intense adventures. Face your fears and conquer the ominous trials in this gripping map!",
-        "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//the-doom-of-satans-slaves/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//the-doom-of-satans-slaves/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//the-doom-of-satans-slaves/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//the-doom-of-satans-slaves/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//the-doom-of-satans-slaves/5.jpg"
-        ]
-      },
-      {
-        "title": "School Furniture",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-furniture/school-furniture.mcpack",
-        "isLocked": false,
-        "coins": 0,
-        "description": "Enhance your Minecraft experience with School Furniture, a resource pack featuring a variety of school-themed furniture. Customize your school builds with desks, chairs, and more in this creative map!",
-        "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-furniture/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-furniture/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-furniture/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-furniture/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-furniture/5.jpg"
-        ]
-      },
-      {
-        "title": "School Monster",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-monster/school-monster.mcworld",
-        "isLocked": false,
-        "coins": 0,
-        "description": "Venture into School Monster, a spine-chilling Minecraft map where a haunted school awaits. Face terrifying creatures, solve creepy puzzles, and survive the horrors lurking in every classroom!",
-        "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-monster/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-monster/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-monster/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-monster/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-monster/5.jpg"
-        ]
-      },
-      {
-        "title": "School British",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-british/school-british.mcworld",
-        "isLocked": false,
-        "coins": 0,
-        "description": "Step into School British, a Minecraft map that captures the essence of a traditional British school. Explore historic buildings, attend classes, and immerse yourself in a classic educational adventure!",
-        "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-british/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-british/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-british/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-british/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-british/5.jpg"
-        ]
-      },
-      {
-        "title": "School Escape",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-escape/school-escape.mcworld",
-        "isLocked": false,
-        "coins": 0,
-        "description": "Test your wits in School Escape, a thrilling Minecraft map where you must solve puzzles and find clues to break out of a locked school. Can you escape before time runs out?",
-        "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-escape/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-escape/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-escape/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-escape/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-escape/5.jpg"
-        ]
-      },
-      {
-        "title": "School Town",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-Town/school-Town.mcworld",
-        "isLocked": false,
-        "coins": 0,
-        "description": "Explore School Town, a Minecraft map featuring a lively school within a bustling town. Engage in community activities, attend classes, and discover the charm of this vibrant map!",
-        "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-Town/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-Town/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-Town/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-Town/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-Town/5.jpg"
-        ]
-      },
-      {
-        "title": "School Neighborhood",
-        "mapLink": "https://keyboard-counter.online/data/schoolMaps//school-Neighborhood/school-Neighborhood.mcworld",
-        "isLocked": false,
-        "coins": 0,
-        "description": "Dive into School Neighborhood, a Minecraft map that combines a friendly neighborhood with a local school. Explore homes, attend classes, and enjoy a wholesome community adventure!",
-        "preview": [
-          "https://keyboard-counter.online/data/schoolMaps//school-Neighborhood/1.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-Neighborhood/2.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-Neighborhood/3.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-Neighborhood/4.jpg",
-          "https://keyboard-counter.online/data/schoolMaps//school-Neighborhood/5.jpg"
+          "https://media.forgecdn.net/attachments/1373/127/biome-spiral-parkour-final-thumbnail-mcpedl-ratio.png",
+          "https://media.forgecdn.net/attachments/1399/971/mangrove-swamp-png.png",
+          "https://media.forgecdn.net/attachments/1398/186/ocean-zoom-png.png",
+          "https://media.forgecdn.net/attachments/1399/934/snowy-grove-png.png",
+          "https://media.forgecdn.net/attachments/1397/978/plains-png.png"
         ]
       }
     ],
