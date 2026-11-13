@@ -3,12 +3,12 @@
     "ShowAds": true,
     "ForceOpenAd": true,
     "networkAd": "admob",
-    "AdInterval": 2,
+    "AdInterval": 1,
     "AdPlacement": {
       "admob": {
         "appId": "ca-app-pub-8431582746889539~9221237011",
         "appOpen": "ca-app-pub-8431582746889539/9792082650",
-        "banner": "",
+        "banner": "ca-app-pub-8431582746889539/8458644674",
         "interstitial": "ca-app-pub-8431582746889539/6595073675",
         "rewarded": "ca-app-pub-8431582746889539/2173659118",
         "native": "ca-app-pub-8431582746889539/5832481333"
