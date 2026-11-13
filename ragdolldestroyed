@@ -38,6 +38,6 @@
     "rewardedPlacement": "",
     "bannerPlacement": ""
   },
-  "interstitialEveryClicks": 3,
-  "fullscreenCooldownSeconds": 15
+  "interstitialEveryClicks": 2,
+  "fullscreenCooldownSeconds": 5
 }
