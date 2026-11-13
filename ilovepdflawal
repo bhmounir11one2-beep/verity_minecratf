@@ -1,7 +1,7 @@
 {
   "ShowAds": true,
-  "networkAd": "appodeal",
-  "AdInterval": 4,
+  "networkAd": "admob",
+  "AdInterval": 3,
   "ForceOpenAd": true,
   "QuestionsNative": true,
   "AppRedirect": {
@@ -11,13 +11,13 @@
   },
   "AdPlacement": {
     "admob": {
-      "appId": "ca-app-pub-3940256099942544/2247696110",
-      "banner": "ca-app-pub-3940256099942544/9214589741",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "rewarded": "ca-app-pub-3940256099942544/5224354917",
-      "appOpen": "ca-app-pub-3940256099942544/9257395921",
-      "native": "ca-app-pub-3940256099942544/2247696110",
-      "questionsNative": "ca-app-pub-3940256099942544/2247696110"
+      "appId": "ca-app-pub-9279841608977379~2224897489",
+      "banner": "ca-app-pub-9279841608977379/4187735901",
+      "interstitial": "ca-app-pub-9279841608977379/7935409221",
+      "rewarded": "ca-app-pub-9279841608977379/3406292224",
+      "appOpen": "ca-app-pub-9279841608977379/1481681512",
+      "native": "ca-app-pub-9279841608977379/9168599846",
+      "questionsNative": "ca-app-pub-9279841608977379/6542436502"
     },
     "appodeal": {
       "appKey": "19e04f2d8ee1afc540f1058ffee9c6061ed04a049ce2c32f"
