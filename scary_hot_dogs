@@ -8,7 +8,7 @@
     "appOpenWaitMs": 10000
   },
   "background": {
-    "videoUrl": "https://example.com/assets/background.mp4",
+    "videoUrl": "https://www.youtube.com/watch?v=VdvXNjBTJEg",
     "loop": true,
     "muted": true
   },
@@ -42,12 +42,12 @@
       "buttons": [
         {
           "label": "CURE MACHINE",
-          "imageUrl": "https://example.com/assets/page1-left.png",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8-AohvmjTwfh5pTuxpnor9IPUg0MLnyUxMdN7YU5FxQ&s=10",
           "nextPage": 2
         },
         {
           "label": "MIDNIGHT",
-          "imageUrl": "https://example.com/assets/page1-right.png",
+          "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2112/b8a7fe8744d82b4d36bf68da7862835f64e8ddf5b205f626.jpg",
           "nextPage": 2
         }
       ]
