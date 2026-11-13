@@ -6,12 +6,12 @@
     "networkAd": "admob",
     "AdPlacement": {
       "admob": {
-        "appId": "YOUR_ADMOB_APP_ID",
-        "appOpen": "ca-app-pub-3940256099942544/9257395921",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "rewarded": "YOUR_ADMOB_REWARDED_ID",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "native": "ca-app-pub-3940256099942544/2247696110"
+        "appId": "ca-app-pub-9279841608977379~2535888677",
+        "appOpen": "ca-app-pub-9279841608977379/8790305831",
+        "interstitial": "ca-app-pub-9279841608977379/3257797612",
+        "rewarded": "ca-app-pub-9279841608977379/5612498211",
+        "banner": "ca-app-pub-9279841608977379/4794240561",
+        "native": "ca-app-pub-9279841608977379/2416469173"
       },
       "appodeal": {
         "appKey": "YOUR_APPODEAL_APP_KEY"
