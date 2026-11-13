@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 2,
+  "niche": "horror",
+  "ShowAds": true,
+  "networkAd": "admob",
+  "splash": {
+    "imageUrl": "https://example.com/assets/splash.png",
+    "appOpenWaitMs": 10000
+  },
+  "background": {
+    "videoUrl": "https://example.com/assets/background.mp4",
+    "loop": true,
+    "muted": true
+  },
+  "ads": {
+    "appodeal": {
+      "appKey": ""
+    },
+    "admob": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "appOpenId": "ca-app-pub-3940256099942544/9257395921",
+      "bannerLeftId": "ca-app-pub-3940256099942544/9214589741",
+      "bannerRightId": "ca-app-pub-3940256099942544/9214589741",
+      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+      "rewardedId": "ca-app-pub-3940256099942544/5224354917"
+    },
+    "interstitial": {
+      "everyClicks": 2
+    }
+  },
+  "AppRedirect": {
+    "status": false,
+    "version": "",
+    "packageName": "",
+    "message": "Continue to the destination",
+    "redirectURL": ""
+  },
+  "pages": [
+    {
+      "id": 1,
+      "title": "NIGHT SHIFT",
+      "buttons": [
+        {
+          "label": "CURE MACHINE",
+          "imageUrl": "https://example.com/assets/page1-left.png",
+          "nextPage": 2
+        },
+        {
+          "label": "MIDNIGHT",
+          "imageUrl": "https://example.com/assets/page1-right.png",
+          "nextPage": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "CRAZY LAB",
+      "buttons": [
+        {
+          "label": "EXPERIMENT",
+          "imageUrl": "https://example.com/assets/page2-left.png",
+          "nextPage": 3
+        },
+        {
+          "label": "SECRET LAB",
+          "imageUrl": "https://example.com/assets/page2-right.png",
+          "nextPage": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "DARK FACTORY",
+      "buttons": [
+        {
+          "label": "FACTORY",
+          "imageUrl": "https://example.com/assets/page3-left.png",
+          "nextPage": 4
+        },
+        {
+          "label": "CONTROL ROOM",
+          "imageUrl": "https://example.com/assets/page3-right.png",
+          "nextPage": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "MONSTER ROOM",
+      "buttons": [
+        {
+          "label": "MONSTER",
+          "imageUrl": "https://example.com/assets/page4-left.png",
+          "nextPage": 5
+        },
+        {
+          "label": "ESCAPE",
+          "imageUrl": "https://example.com/assets/page4-right.png",
+          "nextPage": 5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "SECRET TUNNEL",
+      "buttons": [
+        {
+          "label": "TUNNEL A",
+          "imageUrl": "https://example.com/assets/page5-left.png",
+          "nextPage": 6
+        },
+        {
+          "label": "TUNNEL B",
+          "imageUrl": "https://example.com/assets/page5-right.png",
+          "nextPage": 6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "HAUNTED HALL",
+      "buttons": [
+        {
+          "label": "HAUNTED ROOM",
+          "imageUrl": "https://example.com/assets/page6-left.png",
+          "nextPage": 7
+        },
+        {
+          "label": "DARK HALL",
+          "imageUrl": "https://example.com/assets/page6-right.png",
+          "nextPage": 7
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "ESCAPE ZONE",
+      "buttons": [
+        {
+          "label": "RUN",
+          "imageUrl": "https://example.com/assets/page7-left.png",
+          "nextPage": 8
+        },
+        {
+          "label": "HIDE",
+          "imageUrl": "https://example.com/assets/page7-right.png",
+          "nextPage": 8
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "DANGER ROOM",
+      "buttons": [
+        {
+          "label": "DANGER ZONE",
+          "imageUrl": "https://example.com/assets/page8-left.png",
+          "nextPage": 9
+        },
+        {
+          "label": "SAFE ROOM",
+          "imageUrl": "https://example.com/assets/page8-right.png",
+          "nextPage": 9
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "AFTER HOURS",
+      "buttons": [
+        {
+          "label": "NIGHT WATCH",
+          "imageUrl": "https://example.com/assets/page9-left.png",
+          "nextPage": 10
+        },
+        {
+          "label": "LAST SHIFT",
+          "imageUrl": "https://example.com/assets/page9-right.png",
+          "nextPage": 10
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "LAST ROUND",
+      "buttons": [
+        {
+          "label": "FINAL DOOR",
+          "imageUrl": "https://example.com/assets/page10-left.png",
+          "nextPage": 1
+        },
+        {
+          "label": "EXIT HALL",
+          "imageUrl": "https://example.com/assets/page10-right.png",
+          "nextPage": 1
+        }
+      ]
+    }
+  ]
+}
