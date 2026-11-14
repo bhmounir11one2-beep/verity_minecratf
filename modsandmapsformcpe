@@ -21,11 +21,11 @@
     "OpenAdNetwork": "admob",
     "AdInterval": 2,
     "AdPlacement": {
-      "AdMobBanner": "ca-app-pub-3940256099942544/5224354917",
-      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-      "AdMobInterstitialSP": "ca-app-pub-3940256099942544/1033173712",
-      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
-      "AdMobOpenAd": "ca-app-pub-3940256099942544/3419835294",
+      "AdMobBanner": "ca-app-pub-9279841608977379/3844723615",
+      "AdMobInterstitial": "ca-app-pub-9279841608977379/7666363214",
+      "AdMobInterstitialSP": "ca-app-pub-9279841608977379/7482530382",
+      "AdMobReward": "ca-app-pub-9279841608977379/5994188897",
+      "AdMobOpenAd": "ca-app-pub-9279841608977379/9484063107",
 
 
       "FacebookBanner": "621902803077355_621904523077183",
