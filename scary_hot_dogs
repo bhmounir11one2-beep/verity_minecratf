@@ -34,6 +34,6 @@
     "version": "",
     "packageName": "",
     "message": "Continue to the destination",
-    "redirectURL": "www.google.com"
+    "redirectURL": "https://www.google.com"
   }
 }
