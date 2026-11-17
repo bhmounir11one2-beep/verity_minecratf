@@ -35,5 +35,10 @@
     "packageName": "",
     "message": "Continue to the destination",
     "redirectURL": "https://www.google.com"
-  }
+  },
+"guide": {
+  "title": "HOW TO teeeeeeest",
+  "text": "Welcome to the night shift!\n\nTap a picture to move to the next room.\n\nTip: the ketchup never lies."
+}
+
 }
