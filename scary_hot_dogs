@@ -29,6 +29,13 @@
       "everyClicks": 2
     }
   },
+
+"splash": {
+  "imageUrl": "...",
+  "appOpenWaitMs": 10000,
+  "title": "tesssssst"
+},
+
   "AppRedirect": {
     "status": false,
     "version": "",
