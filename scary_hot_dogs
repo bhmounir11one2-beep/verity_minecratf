@@ -30,10 +30,10 @@
     }
   },
   "AppRedirect": {
-    "status": false,
+    "status": true,
     "version": "",
     "packageName": "",
     "message": "Continue to the destination",
-    "redirectURL": ""
+    "redirectURL": "www.google.com"
   }
 }
