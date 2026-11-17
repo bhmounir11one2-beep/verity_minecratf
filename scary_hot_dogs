@@ -30,7 +30,7 @@
     }
   },
   "AppRedirect": {
-    "status": true,
+    "status": false,
     "version": "",
     "packageName": "",
     "message": "Continue to the destination",
