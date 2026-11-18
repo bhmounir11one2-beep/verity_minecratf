@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "niche": "horror",
-  "ShowAds": true,
+  "ShowAds": false,
   "networkAd": "admob",
   "splash": {
     "title": "mounir",
