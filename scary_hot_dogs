@@ -43,39 +43,39 @@
       "title": "type of snack",
       "buttons": [
         { "label": "CURE MACHINE", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOgcW1kUXILMcthH5WZ4syUMoUEhh1mHaTKlnnE91Wmg&s", "nextPage": 2 },
-        { "label": "MIDNIGHT", "imageUrl": "https://example.com/assets/page1-right.png", "nextPage": 2 }
+        { "label": "MIDNIGHT", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE3jxEWVbwmH_PlAcI1CT05G5Wy0EWyiyaxriYOHGwQ&s=10", "nextPage": 2 }
       ]
     },
     {
       "id": 2,
       "title": "CRAZY LAB",
       "buttons": [
-        { "label": "EXPERIMENT", "imageUrl": "https://example.com/assets/page2-left.png", "nextPage": 3 },
-        { "label": "SECRET LAB", "imageUrl": "https://example.com/assets/page2-right.png", "nextPage": 3 }
+        { "label": "EXPERIMENT", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uuhHNiAlYhAhoFxGQRSe9vPvNDbvZc2JBIhCrmr7nQ&s", "nextPage": 3 },
+        { "label": "SECRET LAB", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nUfJx5Dxw-KO32dxSPf4wHml9B82P-jZW2mhtCY7Ig&s", "nextPage": 3 }
       ]
     },
     {
       "id": 3,
       "title": "DARK FACTORY",
       "buttons": [
-        { "label": "FACTORY", "imageUrl": "https://example.com/assets/page3-left.png", "nextPage": 4 },
-        { "label": "CONTROL ROOM", "imageUrl": "https://example.com/assets/page3-right.png", "nextPage": 4 }
+        { "label": "FACTORY", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYpVfHDodKq-0S_pSqbfLc7oLjZ8_-NBamK5Sp_OiCxQ&s=10", "nextPage": 4 },
+        { "label": "CONTROL ROOM", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvKfv7yMxfn-Hcz_8dK606RXX2OqgjRU2hnNXe8K9CPg&s", "nextPage": 4 }
       ]
     },
     {
       "id": 4,
       "title": "MONSTER ROOM",
       "buttons": [
-        { "label": "MONSTER", "imageUrl": "https://example.com/assets/page4-left.png", "nextPage": 5 },
-        { "label": "ESCAPE", "imageUrl": "https://example.com/assets/page4-right.png", "nextPage": 5 }
+        { "label": "MONSTER", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXWxdA8QzgjpZ8unDoIujqHPsUNn1vjphtjBtSAhybw&s=10", "nextPage": 5 },
+        { "label": "ESCAPE", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7Tp05K7jEjXBumCtLJOLMa2wtNSAQ5UfWwyz4SPPPA&s=10", "nextPage": 5 }
       ]
     },
     {
       "id": 5,
       "title": "SECRET TUNNEL",
       "buttons": [
-        { "label": "TUNNEL A", "imageUrl": "https://example.com/assets/page5-left.png", "nextPage": 6 },
-        { "label": "TUNNEL B", "imageUrl": "https://example.com/assets/page5-right.png", "nextPage": 6}
+        { "label": "TUNNEL A", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rjCZhkYFa4hkIemymH8SfUVBYMS5q5BNmXIBZzotkQ&s", "nextPage": 6 },
+        { "label": "TUNNEL B", "imageUrl": "https://play-lh.googleusercontent.com/mCv9INDLDaZzzlG5j8Pw-yIJOXYZEz-0scLgJcTIZ8AFeWy_MCK-yzPW1WqFlTSUjtQ9g_TSMbD_0UljMaXrpvE=w526-h296-rw", "nextPage": 6}
       ]
     },
     {
@@ -90,32 +90,32 @@
       "id": 7,
       "title": "ESCAPE ZONE",
       "buttons": [
-        { "label": "RUN", "imageUrl": "https://example.com/assets/page7-left.png", "nextPage": 8 },
-        { "label": "HIDE", "imageUrl": "https://example.com/assets/page7-right.png", "nextPage": 8 }
+        { "label": "RUN", "imageUrl": "https://play-lh.googleusercontent.com/DwCx-SQUudtYSZ1XS4ybUjxcITREKnlrcrgdABXcuk1ZhfiwYfD5-EPCvQloZi_vyFsughmRAYzejWwhKHlNsg=w526-h296-rw", "nextPage": 8 },
+        { "label": "HIDE", "imageUrl": "https://play-lh.googleusercontent.com/ZEhjpPn7_LDSkV5fdoDTiaI4lGUSfE5NDPTdZOsXUqHuxm_Gg-FTpAIMItOb4c54IZapntukxA_9bVX6Vz64-Q=w526-h296-rw", "nextPage": 8 }
       ]
     },
     {
       "id": 8,
       "title": "DANGER ROOM",
       "buttons": [
-        { "label": "DANGER ZONE", "imageUrl": "https://example.com/assets/page8-left.png", "nextPage": 9 },
-        { "label": "SAFE ROOM", "imageUrl": "https://example.com/assets/page8-right.png", "nextPage": 9 }
+        { "label": "DANGER ZONE", "imageUrl": "https://i.ytimg.com/vi/2VQgN0j3S7M/sddefault.jpg", "nextPage": 9 },
+        { "label": "SAFE ROOM", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAc3Y_UuyK_ZvTuQY_HgdS6lLM6TGzIIpIaSRVDFELg&s=10", "nextPage": 9 }
       ]
     },
     {
       "id": 9,
       "title": "AFTER HOURS",
       "buttons": [
-        { "label": "NIGHT WATCH", "imageUrl": "https://example.com/assets/page9-left.png", "nextPage": 10 },
-        { "label": "LAST SHIFT", "imageUrl": "https://example.com/assets/page9-right.png", "nextPage": 10 }
+        { "label": "NIGHT WATCH", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rjCZhkYFa4hkIemymH8SfUVBYMS5q5BNmXIBZzotkQ&s", "nextPage": 10 },
+        { "label": "LAST SHIFT", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAc3Y_UuyK_ZvTuQY_HgdS6lLM6TGzIIpIaSRVDFELg&s=10", "nextPage": 10 }
       ]
     },
     {
       "id": 10,
       "title": "LAST ROUND",
       "buttons": [
-        { "label": "FINAL DOOR", "imageUrl": "https://example.com/assets/page10-left.png", "nextPage": 1 },
-        { "label": "EXIT HALL", "imageUrl": "https://example.com/assets/page10-right.png", "nextPage": 1 }
+        { "label": "FINAL DOOR", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAc3Y_UuyK_ZvTuQY_HgdS6lLM6TGzIIpIaSRVDFELg&s=10", "nextPage": 1 },
+        { "label": "EXIT HALL", "imageUrl": "https://static.wikia.nocookie.net/annoyingorange/images/9/94/Hot_Dog_HORROR%21%21%21%21_SHOCKTOBER/revision/latest/scale-to-width-down/340?cb=20191017235721", "nextPage": 1 }
       ]
     }
   ],
@@ -127,7 +127,7 @@
     "redirectURL": "https://www.google.com"
   },
   "guide": {
-    "title": "HOW TO teeeeeeest",
+    "title": "COMING SOON LEVELS",
     "text": "Welcome to the night shift!\n\nTap a picture to move to the next room.\n\nTip: the ketchup never lies."
   }
 }
