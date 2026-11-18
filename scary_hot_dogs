@@ -106,8 +106,8 @@
       "id": 9,
       "title": "AFTER HOURS",
       "buttons": [
-        { "label": "NIGHT WATCH", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rjCZhkYFa4hkIemymH8SfUVBYMS5q5BNmXIBZzotkQ&s", "nextPage": 10 },
-        { "label": "LAST SHIFT", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAc3Y_UuyK_ZvTuQY_HgdS6lLM6TGzIIpIaSRVDFELg&s=10", "nextPage": 10 }
+        { "label": "NIGHT WATCH", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFa43RBEwCtv25FoOzy8T4I3eJS_TdK_2gShVIhWTPg&s=10", "nextPage": 10 },
+        { "label": "LAST SHIFT", "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440820/333a219730557d3d805431798266495404774461/ss_333a219730557d3d805431798266495404774461.1920x1080.jpg?t=1793098760", "nextPage": 10 }
       ]
     },
     {
