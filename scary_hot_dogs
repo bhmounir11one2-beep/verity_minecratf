@@ -9,8 +9,8 @@
     "appOpenWaitMs": 10000
   },
   "background": {
-    "videoUrl": "https://example.com/assets/background.mp4",
-    "imageUrl": "https://i.ytimg.com/vi/J7CQeyruTb4/maxresdefault.jpg",
+    "videoUrl": "https://github.com/bhmounir11one2-beep/verity_minecratf/raw/refs/heads/main/Scary%20Hot%20Dogs%20on%20Steam.mp4",
+    "imageUrl": "",
     "loop": true,
     "muted": true
   },
