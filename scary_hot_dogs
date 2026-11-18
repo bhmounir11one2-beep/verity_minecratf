@@ -40,9 +40,9 @@
   "pages": [
     {
       "id": 1,
-      "title": "NIGHT SHIFT",
+      "title": "type of snack",
       "buttons": [
-        { "label": "CURE MACHINE", "imageUrl": "https://example.com/assets/page1-left.png", "nextPage": 2 },
+        { "label": "CURE MACHINE", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOgcW1kUXILMcthH5WZ4syUMoUEhh1mHaTKlnnE91Wmg&s", "nextPage": 2 },
         { "label": "MIDNIGHT", "imageUrl": "https://example.com/assets/page1-right.png", "nextPage": 2 }
       ]
     },
