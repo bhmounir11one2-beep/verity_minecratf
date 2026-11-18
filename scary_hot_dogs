@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "niche": "horror",
-  "ShowAds": false,
+  "ShowAds": true,
   "networkAd": "admob",
   "splash": {
-    "title": "mounir",
+    "title": "Scary dogs hot",
     "imageUrl": "https://example.com/assets/splash.png",
     "appOpenWaitMs": 10000
   },
@@ -26,15 +26,15 @@
       "appKey": "c4fd51b635ebebe0e3e388dde114f09462cca80e56d7ef41"
     },
     "admob": {
-      "appId": "ca-app-pub-3940256099942544~3347511713",
-      "appOpenId": "ca-app-pub-3940256099942544/9257395921",
-      "bannerLeftId": "ca-app-pub-3940256099942544/9214589741",
-      "bannerRightId": "ca-app-pub-3940256099942544/9214589741",
-      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+      "appId": "ca-app-pub-8431582746889539~4290735733",
+      "appOpenId": "ca-app-pub-8431582746889539/8024473328",
+      "bannerLeftId": "ca-app-pub-8431582746889539/7652617433",
+      "bannerRightId": "ca-app-pub-8431582746889539/2963718339",
+      "interstitialId": "ca-app-pub-8431582746889539/1650636662",
       "rewardedId": "ca-app-pub-3940256099942544/5224354917"
     },
     "interstitial": {
-      "everyClicks": 2
+      "everyClicks": 5
     }
   },
   "pages": [
@@ -82,8 +82,8 @@
       "id": 6,
       "title": "HAUNTED HALL",
       "buttons": [
-        { "label": "HAUNTED ROOM", "imageUrl": "https://example.com/assets/page6-left.png", "nextPage": 7 },
-        { "label": "DARK HALL", "imageUrl": "https://example.com/assets/page6-right.png", "nextPage": 7 }
+        { "label": "HAUNTED ROOM", "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440820/8a3ba07c9317455cf1c7e1a657336092c7382132/ss_8a3ba07c9317455cf1c7e1a657336092c7382132.1920x1080.jpg?t=1793098760", "nextPage": 7 },
+        { "label": "DARK HALL", "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440820/90cc023ee11ca06de720bc097c72a776472ef6cb/ss_90cc023ee11ca06de720bc097c72a776472ef6cb.1920x1080.jpg?t=1793098760", "nextPage": 7 }
       ]
     },
     {
