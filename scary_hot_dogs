@@ -75,7 +75,7 @@
       "title": "SECRET TUNNEL",
       "buttons": [
         { "label": "TUNNEL A", "imageUrl": "https://example.com/assets/page5-left.png", "nextPage": 6 },
-        { "label": "TUNNEL B", "imageUrl": "https://example.com/assets/page5-right.png", "nextPage": 6, "action": "rewarded" }
+        { "label": "TUNNEL B", "imageUrl": "https://example.com/assets/page5-right.png", "nextPage": 6}
       ]
     },
     {
