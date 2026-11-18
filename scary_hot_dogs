@@ -9,7 +9,7 @@
   },
   "background": {
     "videoUrl": "https://example.com/assets/background.mp4",
-    "imageUrl": "https://example.com/assets/background.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/J7CQeyruTb4/maxresdefault.jpg",
     "loop": true,
     "muted": true
   },
