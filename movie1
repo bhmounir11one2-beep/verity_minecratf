@@ -6,6 +6,23 @@
     "appOpenWaitMs": 10000
   },
   "ads": {
+
+"remoteAD": {
+  "status": false,
+  "banner": {
+    "imageUrl": "https://your-image.png",
+    "clickUrl": "https://play.google.com/store/apps/details?id=...",
+    "height": 60
+  },
+  "native": {
+    "imageUrl": "https://big-image.png",
+    "iconUrl": "https://icon.png",
+    "title": "Your title",
+    "description": "Your text",
+    "cta": "Open",
+    "clickUrl": "https://..."
+  }
+},
     "appodeal": {
       "appKey": "24e3209acc533e3bd19dc9947db56abea6af074d662b9696"
     },
