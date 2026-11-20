@@ -1,5 +1,5 @@
 {
-  "ShowAds": true,
+  "ShowAds": false,
   "networkAd": "appodeal",
   "forceOpenAd": true,
   "splash": {
