@@ -1,0 +1,122 @@
+{
+  "ShowAds": true,
+  "networkAd": "admob",
+  "forceOpenAd": true,
+  "appOpenOnResume": true,
+  "rewardedForQrSave": true,
+  "rewardedForDownload": false,
+
+  "splash": { "appOpenWaitMs": 10000 },
+
+  "ads": {
+    "appodeal": { "appKey": "" },
+    "admob": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "appOpenId": "ca-app-pub-3940256099942544/9257395921",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "mrecId": "ca-app-pub-3940256099942544/6300978111",
+      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+      "rewardedId": "ca-app-pub-3940256099942544/5224354917",
+      "nativeId": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "interstitial": { "everyClicks": 2, "minSecondsBetween": 35 }
+  },
+
+  "remoteAD": {
+    "status": false,
+    "banner": {
+      "imageUrl": "https://example.com/ads/banner.png",
+      "clickUrl": "https://play.google.com/store/apps/details?id=com.velox.psp",
+      "height": 60
+    },
+    "native": {
+      "imageUrl": "https://example.com/ads/native.jpg",
+      "iconUrl": "https://example.com/ads/icon.png",
+      "title": "Your ad title",
+      "description": "Your own ad: image, text, button and link all come from this JSON.",
+      "cta": "Open",
+      "clickUrl": "https://play.google.com/store/apps/details?id=com.velox.psp"
+    }
+  },
+
+  "AppRedirect": {
+    "status": false,
+    "version": "",
+    "packageName": "",
+    "message": "Velox has a new home! Tap Continue to get the latest version.",
+    "redirectURL": ""
+  },
+
+  "qr": {
+    "shareUrl": "",
+    "pages": [
+      { "title": "Join our community", "description": "News, tips and support.",
+        "content": "https://t.me/your_channel", "buttonLabel": "Open Telegram" },
+      { "title": "Rate Velox", "description": "Scan on another phone to open the store page.",
+        "content": "https://play.google.com/store/apps/details?id=com.velox.psp", "buttonLabel": "Open store" }
+    ]
+  },
+
+  "exit": {
+    "title": "Leaving already?",
+    "messages": [
+      "Every legend paused once. Come back and finish what you started.",
+      "Your save is waiting — one more level could be the one.",
+      "Champions take breaks too. Recharge and come back to win."
+    ]
+  },
+
+  "catalog": {
+    "title": "Games",
+    "platforms": ["PSP", "PS1", "SNES", "GBA", "NES", "GB", "GBC", "PS2", "PS3"],
+    "gamesUrl": ""
+  },
+
+  "games": [
+    {
+      "id": "psp-game-1",
+      "title": "PSP game name",
+      "platform": "PSP",
+      "cover": "https://example.com/covers/psp-game-1.jpg",
+      "downloadUrl": "https://example.com/files/psp-game-1.zip",
+      "fileName": "psp-game-1.zip",
+      "size": "320 MB",
+      "region": "EU",
+      "genre": "Racing",
+      "rating": 4.5,
+      "downloads": 12000,
+      "description": "Short description shown on the game page.",
+      "screenshots": [
+        "https://example.com/shots/psp-game-1-1.jpg",
+        "https://example.com/shots/psp-game-1-2.jpg"
+      ],
+      "featured": true
+    },
+    { "id": "ps1-game-1", "title": "PS1 game name", "platform": "PS1",
+      "cover": "https://example.com/covers/ps1-game-1.jpg",
+      "downloadUrl": "https://example.com/files/ps1-game-1.zip",
+      "size": "450 MB", "region": "US", "genre": "Action", "rating": 4.2, "downloads": 5400,
+      "description": "Zip with .cue + .bin inside: Velox opens the .cue automatically." },
+    { "id": "snes-game-1", "title": "SNES game name", "platform": "SNES",
+      "cover": "https://example.com/covers/snes-game-1.png",
+      "downloadUrl": "https://example.com/files/snes-game-1.sfc",
+      "size": "2 MB", "genre": "Platformer", "rating": 4.8, "downloads": 8800 },
+    { "id": "gba-game-1", "title": "GBA game name", "platform": "GBA",
+      "cover": "https://example.com/covers/gba-game-1.png",
+      "downloadUrl": "https://example.com/files/gba-game-1.gba",
+      "size": "16 MB", "genre": "RPG", "downloads": 3100 },
+    { "id": "nes-game-1", "title": "NES game name", "platform": "NES",
+      "cover": "https://example.com/covers/nes-game-1.png",
+      "downloadUrl": "https://example.com/files/nes-game-1.nes",
+      "size": "256 KB", "genre": "Arcade" },
+    { "id": "gb-game-1", "title": "Game Boy game name", "platform": "GB",
+      "cover": "https://example.com/covers/gb-game-1.png",
+      "downloadUrl": "https://example.com/files/gb-game-1.gb",
+      "size": "512 KB", "genre": "Puzzle" },
+    { "id": "ps2-game-1", "title": "PS2 game name", "platform": "PS2",
+      "cover": "https://example.com/covers/ps2-game-1.jpg",
+      "downloadUrl": "https://example.com/files/ps2-game-1.iso",
+      "size": "3.2 GB", "genre": "Sports",
+      "description": "PS2 games download to the library and open in an installed PS2 emulator app." }
+  ]
+}
