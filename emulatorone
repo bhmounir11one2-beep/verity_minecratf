@@ -75,7 +75,7 @@
   "games": [
     {
       "id": "psp-game-1",
-      "title": "PSP game name",
+      "title": "PSP tesssst",
       "platform": "PSP",
       "cover": "https://example.com/covers/psp-game-1.jpg",
       "downloadUrl": "https://example.com/files/psp-game-1.zip",
@@ -85,10 +85,10 @@
       "genre": "Racing",
       "rating": 4.5,
       "downloads": 12000,
-      "description": "Short description shown on the game page.",
+      "description": "test description",
       "screenshots": [
-        "https://example.com/shots/psp-game-1-1.jpg",
-        "https://example.com/shots/psp-game-1-2.jpg"
+        "https://romsfun.com/wp-content/uploads/2026/10/Grand-Theft-Auto-Vice-City-Stories.png",
+        "https://romsfun.com/wp-content/uploads/2026/10/Grand-Theft-Auto-Vice-City-Stories.png"
       ],
       "featured": true
     },
