@@ -93,7 +93,7 @@
       "featured": true
     },
     { "id": "ps1-game-1", "title": "PS1 game name", "platform": "PS1",
-      "cover": "https://example.com/covers/ps1-game-1.jpg",
+      "cover": "https://romsfun.com/wp-content/uploads/2026/10/Grand-Theft-Auto-Vice-City-Stories.png",
       "downloadUrl": "https://example.com/files/ps1-game-1.zip",
       "size": "450 MB", "region": "US", "genre": "Action", "rating": 4.2, "downloads": 5400,
       "description": "Zip with .cue + .bin inside: Velox opens the .cue automatically." },
