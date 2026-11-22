@@ -1,5 +1,5 @@
 {
-  "ShowAds": true,
+  "ShowAds": false,
   "networkAd": "admob",
   "forceOpenAd": true,
   "appOpenOnResume": true,
