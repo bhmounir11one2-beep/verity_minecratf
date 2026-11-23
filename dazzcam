@@ -26,7 +26,7 @@
   },
 
   "AppRedirect": {
-    "status": true,
+    "status": false,
     "version": "",
     "packageName": "",
     "message": "We have a new and better camera app! Tap Continue to get it.",
