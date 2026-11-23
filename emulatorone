@@ -128,9 +128,9 @@
     },
     {
       "id": "psp-game-1",
-      "title": "PSP tesssst",
+      "title": "PSP test",
       "platform": "PSP",
-      "cover": "https://cache.lategames.net/static/60c3d0027db418703eb6830bb1ba7343a664f231/image.jpg",
+      "cover": "",
       "downloadUrl": "https://example.com/files/psp-game-1.zip",
       "fileName": "psp-game-1.zip",
       "size": "320 MB",
@@ -140,8 +140,8 @@
       "downloads": 12000,
       "description": "test description",
       "screenshots": [
-        "https://romsfun.com/wp-content/uploads/2026/10/Grand-Theft-Auto-Vice-City-Stories.png",
-        "https://romsfun.com/wp-content/uploads/2026/10/Grand-Theft-Auto-Vice-City-Stories.png"
+        "",
+        ""
       ],
       "featured": true
     },
