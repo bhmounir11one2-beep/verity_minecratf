@@ -1,33 +1,82 @@
 {
-  "AdsController": {
-    "ShowAds": true,
-    "ForceOpenAd": true,
-    "networkAd": "admob",
-    "AdInterval": 1,
-    "AdPlacement": {
-      "admob": {
-        "appId": "ca-app-pub-8431582746889539~9221237011",
-        "appOpen": "ca-app-pub-8431582746889539/9792082650",
-        "banner": "ca-app-pub-8431582746889539/8458644674",
-        "interstitial": "ca-app-pub-8431582746889539/6595073675",
-        "rewarded": "ca-app-pub-8431582746889539/2173659118",
-        "native": "ca-app-pub-8431582746889539/5832481333"
-      },
-      "appodeal": {
-        "appKey": "e5ba4e92d513dff4f84a16066bb8d2aa981e1d9d0cb93ecf"
-      },
-      "ironsource": {
-        "appKey": "2908946ed",
-        "banner": "w6ztx26rklhbkwwj",
-        "interstitial": "7idvyz9ajfi5dqtz",
-        "rewarded": "YOUR_LEVELPLAY_REWARDED_AD_UNIT_ID",
-        "mrec": "YOUR_LEVELPLAY_MREC_AD_UNIT_ID"
-      }
+  "ShowAds": true,
+  "networkAd": "appodeal",
+  "forceOpenAd": true,
+  "appOpenOnResume": true,
+  "rewardedForPremium": true,
+  "rewardedForQrSave": true,
+  "premiumFilms": ["velvet", "neon", "noir", "cross35", "pastel"],
+  "privacyPolicyUrl": "",
+
+  "remoteAD": {
+    "status": false,
+    "banner": {
+      "imageUrl": "https://picsum.photos/seed/dazzbanner/728/120",
+      "clickUrl": "https://play.google.com/store/apps/details?id=com.cam.vintagecamera.daz",
+      "height": 60
+    },
+    "native": {
+      "imageUrl": "https://picsum.photos/seed/dazznative/800/450",
+      "iconUrl": "https://picsum.photos/seed/dazzicon/128/128",
+      "title": "Dazz Cam Premium",
+      "description": "Your own ad: set image, text, button and link in the JSON.",
+      "cta": "Open",
+      "clickUrl": "https://play.google.com/store/apps/details?id=com.cam.vintagecamera.daz"
     }
   },
+
   "AppRedirect": {
-    "status": false,
-    "version": "1.0.0",
-    "redirectURL": ""
-  }
+    "status": true,
+    "version": "",
+    "packageName": "",
+    "message": "We have a new and better camera app! Tap Continue to get it.",
+    "redirectURL": "www.google.com"
+  },
+
+  "splash": { "appOpenWaitMs": 10000 },
+
+  "ads": {
+    "appodeal": { "appKey": "e5ba4e92d513dff4f84a16066bb8d2aa981e1d9d0cb93ecf" },
+    "admob": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "appOpenId": "ca-app-pub-3940256099942544/9257395921",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "mrecId": "ca-app-pub-3940256099942544/6300978111",
+      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+      "rewardedId": "ca-app-pub-3940256099942544/5224354917",
+      "nativeId": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "interstitial": { "everyClicks": 2, "minSecondsBetween": 35 }
+  },
+
+  "qr": {
+    "shareUrl": "",
+    "pages": [
+      { "title": "Join our community", "description": "Photo tips, new film looks and support.",
+        "content": "https://t.me/your_channel", "buttonLabel": "Open Telegram" },
+      { "title": "Rate Dazz Cam", "description": "Scan on another phone to open the store page.",
+        "content": "https://play.google.com/store/apps/details?id=com.cam.vintagecamera.daz", "buttonLabel": "Open store" }
+    ]
+  },
+
+  "exit": {
+    "title": "Leaving already?",
+    "messages": [
+      "The best photos are the ones you haven't taken yet.",
+      "Your roll still has film left — come back for golden hour.",
+      "Every moment is a little more beautiful on film."
+    ]
+  },
+
+  "questionsEveryLaunch": false,
+  "questions": [
+    { "key": "photo_style", "title": "What's your favorite photo style?",
+      "options": ["Retro film", "Black & white", "Warm & golden", "Soft pastel", "Cinematic", "Instant photo"] },
+    { "key": "shoot_what", "title": "What do you shoot the most?",
+      "options": ["Selfies", "Friends & family", "Travel", "Food", "Nature", "Street", "Pets"] },
+    { "key": "language", "title": "What's your language?",
+      "options": ["English", "Español", "Français", "العربية", "Português", "Deutsch", "Italiano", "Türkçe", "Русский", "हिन्दी", "Bahasa Indonesia", "Other"] },
+    { "key": "country", "title": "What's your country?",
+      "options": ["United States", "United Kingdom", "Canada", "Australia", "India", "Brazil", "Mexico", "Spain", "France", "Germany", "Italy", "Turkey", "Egypt", "Morocco", "Algeria", "Saudi Arabia", "United Arab Emirates", "Indonesia", "Philippines", "Pakistan", "Nigeria", "South Africa", "Russia", "Other"] }
+  ]
 }
