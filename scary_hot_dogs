@@ -2,9 +2,9 @@
   "schemaVersion": 2,
   "niche": "horror",
   "ShowAds": true,
-  "networkAd": "admob",
+  "networkAd": "appodeal",
   "splash": {
-    "title": "Scary dogs hot",
+    "title": "Scary Hot Dogs horror",
     "imageUrl": "https://example.com/assets/splash.png",
     "appOpenWaitMs": 10000
   },
