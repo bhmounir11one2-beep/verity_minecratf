@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "niche": "horror",
   "ShowAds": true,
-  "networkAd": "appodeal",
+  "networkAd": "admob",
   "splash": {
     "title": "Scary Hot Dogs horror",
     "imageUrl": "https://example.com/assets/splash.png",
@@ -27,11 +27,11 @@
     },
     "admob": {
       "appId": "ca-app-pub-8431582746889539~4290735733",
-      "appOpenId": "ca-app-pub-3940256099942544/9257395921",
-      "bannerLeftId": "ca-app-pub-3940256099942544/9214589741",
+      "appOpenId": "ca-app-pub-8431582746889539/8024473328",
+      "bannerLeftId": "ca-app-pub-8431582746889539/7652617433",
       "bannerRightId": "ca-app-pub-8431582746889539/2963718339",
-      "interstitialId": "ca-app-pub-5977579612228950/9935233057",
-      "rewardedId": "ca-app-pub-3940256099942544/5224354917"
+      "interstitialId": "ca-app-pub-8431582746889539/1650636662",
+      "rewardedId": "ca-app-pub-8431582746889539/6474045941"
     },
     "interstitial": {
       "everyClicks": 2
