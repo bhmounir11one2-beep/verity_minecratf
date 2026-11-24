@@ -34,7 +34,7 @@
       "rewardedId": "ca-app-pub-3940256099942544/5224354917"
     },
     "interstitial": {
-      "everyClicks": 5
+      "everyClicks": 2
     }
   },
   "pages": [
