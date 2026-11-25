@@ -252,25 +252,24 @@
     ],
     "Addons": [
       {
-        "title": "DontCry Horror",
-        "addonLink": "https://www.curseforge.com/api/v1/mods/1566054/files/9177575/download",
+        "title": "Froggydude MOD",
+        "addonLink": "https://www.curseforge.com/api/v1/mods/1788095/files/9666773/download",
         "isLocked": false,
         "coins": 0,
         "description": "A Minecraft horror mod that adds creepy stalker encounters, scary sounds, and unsettling nighttime events.",
         "preview": [
-          "https://i.ytimg.com/vi/aRufWHJjCG4/maxresdefault.jpg",
-          "https://media.forgecdn.net/attachments/1719/653/2026-06-05_22-22-25-png.png",
-          "https://media.forgecdn.net/attachments/2052/978/imagdqsqdsqdse-png.png"
+          "https://media.forgecdn.net/attachments/2158/231/15450-jpg.jpg",
+          "https://media.forgecdn.net/attachments/2158/232/8749-png.png"
         ]
       },
       {
-        "title": "The Cat in the Hat Horror Plus",
-        "addonLink": "https://cdn.modrinth.com/data/Fa3OxQRF/versions/yCtOPlOD/cat_in_the_hat_horror_plus-1.0.0-neoforge-26.3.jar?mr_download_reason=standalone",
+        "title": "Froggydude MOD horror",
+        "addonLink": "https://www.curseforge.com/api/v1/mods/1788095/files/9666773/download",
         "isLocked": false,
         "coins": 0,
         "description": "The Cat in the Hat horror trend has been spreading everywhere online in 2026. Since it was becoming so popular, I figured a Minecraft mod based on it could get a lot of downloads! I also decided to add Momo and Blue Whale because Momo was mentioned in news coverage discussing the Cat in the Hat horror trend.",
         "preview": [
-          "https://cdn.modrinth.com/data/Fa3OxQRF/images/b264119e0275bdd5a048381d9927700550eec7b6.jpeg"
+          "https://media.forgecdn.net/attachments/2158/234/c9caeb19-c8c6-47bc-b611-746a855a6b67-1_all_58-png.png"
         ]
       },
       {
