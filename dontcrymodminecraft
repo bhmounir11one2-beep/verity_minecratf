@@ -273,14 +273,14 @@
         ]
       },
       {
-        "title": "DontCry Horror",
-        "addonLink": "https://www.curseforge.com/api/v1/mods/1566054/files/9177575/download",
+        "title": "Froggydude normal",
+        "addonLink": "https://www.curseforge.com/api/v1/mods/1788095/files/9666773/download,
         "isLocked": false,
         "coins": 0,
-        "description": "DontCry is a Minecraft horror mod inspired mainly by scripted horror videos from popular YouTubers such as Swayle, Syllo, and others. The mod primarily features 2D creatures .",
+        "description": "Froggydude is a Minecraft horror mod inspired mainly by scripted horror videos from popular YouTubers such as Swayle, Syllo, and others. The mod primarily features 2D creatures .",
         "preview": [
-          "https://media.forgecdn.net/attachments/1719/653/2026-06-05_22-22-25-png.png",
-          "https://media.forgecdn.net/attachments/2052/978/imagdqsqdsqdse-png.png"
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lg2boMcw46rfFWfOd0KMun3gyWOI76_zTVYgD3UkZUHj7VW4Kxf0jhY&s=10",
+          "https://media.forgecdn.net/attachments/2158/233/8709-png.png"
         ]
       },
       {
@@ -290,7 +290,7 @@
         "coins": 0,
         "description": "Drive the iconic Jimmy Gibbs Jr. car, inspired by classic designs for your Minecraft adventures.",
         "preview": [
-          "https://keyboard-counter.online/data/carsv2/CarAddons/Jgjc/1.png",
+          "https://media.forgecdn.net/attachments/2158/230/15369-png.png",
           "https://keyboard-counter.online/data/carsv2/CarAddons/Jgjc/2.png",
           "https://keyboard-counter.online/data/carsv2/CarAddons/Jgjc/3.png"
         ]
