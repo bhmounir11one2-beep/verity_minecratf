@@ -1,5 +1,5 @@
 {
-  "ShowAds": false,
+  "ShowAds": true,
   "networkAd": "appodeal",
   "forceOpenAd": true,
   "splash": {
@@ -27,8 +27,8 @@
       "appKey": "24e3209acc533e3bd19dc9947db56abea6af074d662b9696"
     },
     "admob": {
-      "appId": "ca-app-pub-3940256099942544~3347511713",
-      "appOpenId": "ca-app-pub-3940256099942544/9257395921",
+      "appId": "ca-app-pub-8431582746889539~3339220917",
+      "appOpenId": "ca-app-pub-8431582746889539/2354597252",
       "bannerId": "ca-app-pub-3940256099942544/6300978111",
       "mrecId": "ca-app-pub-3940256099942544/6300978111",
       "interstitialId": "ca-app-pub-3940256099942544/1033173712",
