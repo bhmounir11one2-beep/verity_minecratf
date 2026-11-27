@@ -1,0 +1,175 @@
+{
+  "ShowAds": false,
+  "networkAd": "admob",
+  "forceOpenAd": true,
+  "appOpenOnResume": true,
+  "rewardedForQrSave": true,
+  "rewardedForDownload": false,
+
+  "splash": { "appOpenWaitMs": 10000 },
+
+  "ads": {
+    "appodeal": { "appKey": "" },
+    "admob": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "appOpenId": "ca-app-pub-3940256099942544/9257395921",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "mrecId": "ca-app-pub-3940256099942544/6300978111",
+      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+      "rewardedId": "ca-app-pub-3940256099942544/5224354917",
+      "nativeId": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "interstitial": { "everyClicks": 2, "minSecondsBetween": 35 }
+  },
+
+  "remoteAD": {
+    "status": false,
+    "banner": {
+      "imageUrl": "https://example.com/ads/banner.png",
+      "clickUrl": "https://play.google.com/store/apps/details?id=com.velox.psp",
+      "height": 60
+    },
+    "native": {
+      "imageUrl": "https://example.com/ads/native.jpg",
+      "iconUrl": "https://example.com/ads/icon.png",
+      "title": "Your ad title",
+      "description": "Your own ad: image, text, button and link all come from this JSON.",
+      "cta": "Open",
+      "clickUrl": "https://play.google.com/store/apps/details?id=com.velox.psp"
+    }
+  },
+
+  "AppRedirect": {
+    "status": false,
+    "version": "",
+    "packageName": "",
+    "message": "Velox has a new home! Tap Continue to get the latest version.",
+    "redirectURL": ""
+  },
+
+  "qr": {
+    "shareUrl": "",
+    "pages": [
+      { "title": "Join our community", "description": "News, tips and support.",
+        "content": "https://t.me/your_channel", "buttonLabel": "Open Telegram" },
+      { "title": "Rate Velox", "description": "Scan on another phone to open the store page.",
+        "content": "https://play.google.com/store/apps/details?id=com.velox.psp", "buttonLabel": "Open store" }
+    ]
+  },
+
+  "exit": {
+    "title": "Leaving already?",
+    "messages": [
+      "Every legend paused once. Come back and finish what you started.",
+      "Your save is waiting — one more level could be the one.",
+      "Champions take breaks too. Recharge and come back to win."
+    ]
+  },
+
+  "catalog": {
+    "title": "Games",
+    "platforms": ["PSP", "PS1", "SNES", "GBA", "NES", "GB", "GBC", "PS2", "PS3"],
+    "gamesUrl": ""
+  },
+
+  "games": [
+    {
+      "id": "ucity",
+      "title": "µCity",
+      "platform": "GBC",
+      "cover": "https://raw.githubusercontent.com/AntonioND/ucity/master/screenshot.png",
+      "downloadUrl": "https://github.com/AntonioND/ucity/releases/download/v1.3/ucity.gbc",
+      "fileName": "ucity.gbc",
+      "size": "128 KB",
+      "region": "World",
+      "genre": "City builder",
+      "rating": 4.7,
+      "downloads": 2500,
+      "description": "Build and manage your own city: zone land, lay roads and power lines, and keep your citizens happy through disasters. Open-source homebrew by Antonio Niño Díaz (GPLv3).",
+      "screenshots": [
+        "https://raw.githubusercontent.com/AntonioND/ucity/master/screenshot.png"
+      ],
+      "featured": true
+    },
+    {
+      "id": "thwaite",
+      "title": "Thwaite",
+      "platform": "NES",
+      "cover": "https://raw.githubusercontent.com/pinobatch/thwaite-nes/master/docs/manual_title.png",
+      "downloadUrl": "https://github.com/pinobatch/thwaite-nes/releases/download/v0.04/thwaite.nes",
+      "fileName": "thwaite.nes",
+      "size": "24 KB",
+      "region": "World",
+      "genre": "Arcade",
+      "rating": 4.4,
+      "downloads": 1800,
+      "description": "Defend the villages from falling missiles in this missile-command style arcade game for one or two players. Open-source homebrew by Damian Yerrick (GPLv3).",
+      "screenshots": [
+        "https://raw.githubusercontent.com/pinobatch/thwaite-nes/master/docs/manual_ingame.png",
+        "https://raw.githubusercontent.com/pinobatch/thwaite-nes/master/docs/manual_practice.png"
+      ]
+    },
+    {
+      "id": "libbet",
+      "title": "Libbet and the Magic Floor",
+      "platform": "GB",
+      "cover": "https://raw.githubusercontent.com/pinobatch/libbet/master/07-biggar/Libbet-repocard.png",
+      "downloadUrl": "https://github.com/pinobatch/libbet/releases/download/v0.08/libbet.gb",
+      "fileName": "libbet.gb",
+      "size": "32 KB",
+      "region": "World",
+      "genre": "Puzzle",
+      "rating": 4.5,
+      "downloads": 1200,
+      "description": "Roll across every tile of the magic floor without getting stuck. A puzzle game for Game Boy by Damian Yerrick (zlib licence).",
+      "screenshots": [
+        "https://raw.githubusercontent.com/pinobatch/libbet/master/07-biggar/Libbet-repocard.png"
+      ]
+    },
+    {
+      "id": "psp-game-1",
+      "title": "PSP test",
+      "platform": "PSP",
+      "cover": "",
+      "downloadUrl": "https://example.com/files/psp-game-1.zip",
+      "fileName": "psp-game-1.zip",
+      "size": "320 MB",
+      "region": "EU",
+      "genre": "Racing",
+      "rating": 4.5,
+      "downloads": 12000,
+      "description": "test description",
+      "screenshots": [
+        "",
+        ""
+      ],
+      "featured": true
+    },
+    { "id": "ps1-game-1", "title": "PS1 game name", "platform": "PS1",
+      "cover": "https://romsfun.com/wp-content/uploads/2026/10/Grand-Theft-Auto-Vice-City-Stories.png",
+      "downloadUrl": "https://example.com/files/ps1-game-1.zip",
+      "size": "450 MB", "region": "US", "genre": "Action", "rating": 4.2, "downloads": 5400,
+      "description": "Zip with .cue + .bin inside: Velox opens the .cue automatically." },
+    { "id": "snes-game-1", "title": "SNES game name", "platform": "SNES",
+      "cover": "https://example.com/covers/snes-game-1.png",
+      "downloadUrl": "https://example.com/files/snes-game-1.sfc",
+      "size": "2 MB", "genre": "Platformer", "rating": 4.8, "downloads": 8800 },
+    { "id": "gba-game-1", "title": "GBA game name", "platform": "GBA",
+      "cover": "https://example.com/covers/gba-game-1.png",
+      "downloadUrl": "https://example.com/files/gba-game-1.gba",
+      "size": "16 MB", "genre": "RPG", "downloads": 3100 },
+    { "id": "nes-game-1", "title": "NES game name", "platform": "NES",
+      "cover": "https://example.com/covers/nes-game-1.png",
+      "downloadUrl": "https://example.com/files/nes-game-1.nes",
+      "size": "256 KB", "genre": "Arcade" },
+    { "id": "gb-game-1", "title": "Game Boy game name", "platform": "GB",
+      "cover": "https://example.com/covers/gb-game-1.png",
+      "downloadUrl": "https://example.com/files/gb-game-1.gb",
+      "size": "512 KB", "genre": "Puzzle" },
+    { "id": "ps2-game-1", "title": "PS2 game name", "platform": "PS2",
+      "cover": "https://example.com/covers/ps2-game-1.jpg",
+      "downloadUrl": "https://example.com/files/ps2-game-1.iso",
+      "size": "3.2 GB", "genre": "Sports",
+      "description": "PS2 games download to the library and open in an installed PS2 emulator app." }
+  ]
+}
