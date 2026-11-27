@@ -1,6 +1,6 @@
 {
   "ShowAds": true,
-  "networkAd": "admob",
+  "networkAd": "appodeal",
   "forceOpenAd": true,
   "appOpenOnResume": true,
   "rewardedForPremium": true,
@@ -39,12 +39,12 @@
     "appodeal": { "appKey": "e5ba4e92d513dff4f84a16066bb8d2aa981e1d9d0cb93ecf" },
     "admob": {
       "appId": "ca-app-pub-8431582746889539~9221237011",
-      "appOpenId": "ca-app-pub-8431582746889539/9792082650",
-      "bannerId": "ca-app-pub-8431582746889539/8458644674",
-      "mrecId": "ca-app-pub-8431582746889539/2173659118",
-      "interstitialId": "ca-app-pub-8431582746889539/6595073675",
-      "rewardedId": "ca-app-pub-8431582746889539/7673097457",
-      "nativeId": "ca-app-pub-8431582746889539/5832481333"
+      "appOpenId": "ca-app-pub-3940256099942544/9257395921",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "mrecId": "ca-app-pub-3940256099942544/1033173712",
+      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+      "rewardedId": "ca-app-pub-3940256099942544/5224354917",
+      "nativeId": "ca-app-pub-3940256099942544/2247696110"
     },
     "interstitial": { "everyClicks": 2, "minSecondsBetween": 35 }
   },
