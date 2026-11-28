@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "niche": "horror",
+  "ShowAds": true,
+  "networkAd": "admob",
+  "splash": {
+    "title": "gilla Horror scary",
+    "imageUrl": "https://example.com/assets/splash.png",
+    "appOpenWaitMs": 10000
+  },
+  "background": {
+    "videoUrl": "https://github.com/bhmounir11one2-beep/verity_minecratf/raw/refs/heads/main/Scary%20Hot%20Dogs%20on%20Steam.mp4",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440820/524e261d94cc824bb138c0367c4789132ff33111/ss_524e261d94cc824bb138c0367c4789132ff33111.1920x1080.jpg?t=1793098760",
+    "loop": true,
+    "muted": true
+  },
+  "theme": {
+    "backgroundColor": "#061018",
+    "frameColor": "#D7263D",
+    "bannerColor": "#D7263D",
+    "exitColor": "#F02525",
+    "titleColor": "#FFFFFF"
+  },
+  "ads": {
+    "appodeal": {
+      "appKey": "c4fd51b635ebebe0e3e388dde114f09462cca80e56d7ef41"
+    },
+    "admob": {
+      "appId": "ca-app-pub-8431582746889539~4290735733",
+      "appOpenId": "ca-app-pub-8431582746889539/8024473328",
+      "bannerLeftId": "ca-app-pub-8431582746889539/7652617433",
+      "bannerRightId": "ca-app-pub-8431582746889539/2963718339",
+      "interstitialId": "ca-app-pub-8431582746889539/1650636662",
+      "rewardedId": "ca-app-pub-8431582746889539/6474045941"
+    },
+    "interstitial": {
+      "everyClicks": 2
+    }
+  },
+  "pages": [
+    {
+      "id": 1,
+      "title": "type of snack",
+      "buttons": [
+        { "label": "CURE MACHINE", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOgcW1kUXILMcthH5WZ4syUMoUEhh1mHaTKlnnE91Wmg&s", "nextPage": 2 },
+        { "label": "MIDNIGHT", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE3jxEWVbwmH_PlAcI1CT05G5Wy0EWyiyaxriYOHGwQ&s=10", "nextPage": 2 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "CRAZY LAB",
+      "buttons": [
+        { "label": "EXPERIMENT", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uuhHNiAlYhAhoFxGQRSe9vPvNDbvZc2JBIhCrmr7nQ&s", "nextPage": 3 },
+        { "label": "SECRET LAB", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nUfJx5Dxw-KO32dxSPf4wHml9B82P-jZW2mhtCY7Ig&s", "nextPage": 3 }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "DARK FACTORY",
+      "buttons": [
+        { "label": "FACTORY", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYpVfHDodKq-0S_pSqbfLc7oLjZ8_-NBamK5Sp_OiCxQ&s=10", "nextPage": 4 },
+        { "label": "CONTROL ROOM", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvKfv7yMxfn-Hcz_8dK606RXX2OqgjRU2hnNXe8K9CPg&s", "nextPage": 4 }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "MONSTER ROOM",
+      "buttons": [
+        { "label": "MONSTER", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXWxdA8QzgjpZ8unDoIujqHPsUNn1vjphtjBtSAhybw&s=10", "nextPage": 5 },
+        { "label": "ESCAPE", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7Tp05K7jEjXBumCtLJOLMa2wtNSAQ5UfWwyz4SPPPA&s=10", "nextPage": 5 }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "SECRET TUNNEL",
+      "buttons": [
+        { "label": "TUNNEL A", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rjCZhkYFa4hkIemymH8SfUVBYMS5q5BNmXIBZzotkQ&s", "nextPage": 6 },
+        { "label": "TUNNEL B", "imageUrl": "https://play-lh.googleusercontent.com/mCv9INDLDaZzzlG5j8Pw-yIJOXYZEz-0scLgJcTIZ8AFeWy_MCK-yzPW1WqFlTSUjtQ9g_TSMbD_0UljMaXrpvE=w526-h296-rw", "nextPage": 6}
+      ]
+    },
+    {
+      "id": 6,
+      "title": "HAUNTED HALL",
+      "buttons": [
+        { "label": "HAUNTED ROOM", "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440820/8a3ba07c9317455cf1c7e1a657336092c7382132/ss_8a3ba07c9317455cf1c7e1a657336092c7382132.1920x1080.jpg?t=1793098760", "nextPage": 7 },
+        { "label": "DARK HALL", "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440820/90cc023ee11ca06de720bc097c72a776472ef6cb/ss_90cc023ee11ca06de720bc097c72a776472ef6cb.1920x1080.jpg?t=1793098760", "nextPage": 7 }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "ESCAPE ZONE",
+      "buttons": [
+        { "label": "RUN", "imageUrl": "https://play-lh.googleusercontent.com/DwCx-SQUudtYSZ1XS4ybUjxcITREKnlrcrgdABXcuk1ZhfiwYfD5-EPCvQloZi_vyFsughmRAYzejWwhKHlNsg=w526-h296-rw", "nextPage": 8 },
+        { "label": "HIDE", "imageUrl": "https://play-lh.googleusercontent.com/ZEhjpPn7_LDSkV5fdoDTiaI4lGUSfE5NDPTdZOsXUqHuxm_Gg-FTpAIMItOb4c54IZapntukxA_9bVX6Vz64-Q=w526-h296-rw", "nextPage": 8 }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "DANGER ROOM",
+      "buttons": [
+        { "label": "DANGER ZONE", "imageUrl": "https://i.ytimg.com/vi/2VQgN0j3S7M/sddefault.jpg", "nextPage": 9 },
+        { "label": "SAFE ROOM", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAc3Y_UuyK_ZvTuQY_HgdS6lLM6TGzIIpIaSRVDFELg&s=10", "nextPage": 9 }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "AFTER HOURS",
+      "buttons": [
+        { "label": "NIGHT WATCH", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFa43RBEwCtv25FoOzy8T4I3eJS_TdK_2gShVIhWTPg&s=10", "nextPage": 10 },
+        { "label": "LAST SHIFT", "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440820/333a219730557d3d805431798266495404774461/ss_333a219730557d3d805431798266495404774461.1920x1080.jpg?t=1793098760", "nextPage": 10 }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "LAST ROUND",
+      "buttons": [
+        { "label": "FINAL DOOR", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAc3Y_UuyK_ZvTuQY_HgdS6lLM6TGzIIpIaSRVDFELg&s=10", "nextPage": 1 },
+        { "label": "EXIT HALL", "imageUrl": "https://static.wikia.nocookie.net/annoyingorange/images/9/94/Hot_Dog_HORROR%21%21%21%21_SHOCKTOBER/revision/latest/scale-to-width-down/340?cb=20191017235721", "nextPage": 1 }
+      ]
+    }
+  ],
+  "AppRedirect": {
+    "status": false,
+    "version": "",
+    "packageName": "",
+    "message": "Continue to the destination",
+    "redirectURL": "https://www.google.com"
+  },
+  "guide": {
+    "title": "COMING SOON LEVELS",
+    "text": "Welcome to the night shift!\n\nTap a picture to move to the next room.\n\nTip: the ketchup never lies."
+  }
+}
